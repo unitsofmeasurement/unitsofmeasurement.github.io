@@ -6,21 +6,61 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>23.04.2014 03:01:00</pubDate>
-    <lastBuildDate>23.04.2014 03:01:00</lastBuildDate>
+    <pubDate>23.04.2014 04:09:04</pubDate>
+    <lastBuildDate>23.04.2014 04:09:04</lastBuildDate>
 
       <item>
-        <title>Second Post</title>
+        <title>JSR 363 Accepted</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\accepted.html</link>
+        <pubDate>07.04.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\accepted.html</guid>
+        <description>
+          &lt;p&gt;The JCP Executive Committee has accepted the Creation of JSR 363.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;https://jcp.org/en/jsr/results?id=5666&quot;&gt;https://jcp.org/en/jsr/results?id=5666&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>NightHacking at JUGS</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\nh_jugs.html</link>
+        <pubDate>28.03.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\nh_jugs.html</guid>
+        <description>
+          &lt;p&gt;A &lt;a href=&quot;http://www.nighthacking.com&quot;&gt;NightHacking&lt;/a&gt; session with Stephen Chin later that week allowed a more detailed overview of JSR 363. Duke got so excited, he even temporarily lost his head;-)&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/yv7Y_0AlQUU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>JavaLand</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\nh_javaland.html</link>
+        <pubDate>26.03.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\nh_javaland.html</guid>
+        <description>
+          &lt;p&gt;A &lt;a href=&quot;http://www.nighthacking.com&quot;&gt;NightHacking&lt;/a&gt; interview at &lt;a href=&quot;http://www.javaland.eu/&quot;&gt;JavaLand&lt;/a&gt;&lt;br/&gt;conference brought the first public announcement of JSR 363.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/QmhO4q_SKIY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>Creation Review</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\cr.html</link>
+        <pubDate>11.03.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\cr.html</guid>
+        <description>
+          &lt;p&gt;The Creation Review of JSR 363 by the JCP Executive Committee and Java Community started.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;https://jcp.org/en/jsr/detail?id=363&quot;&gt;https://jcp.org/en/jsr/detail?id=363&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>JCP EC F2F at Oracle HQ</title>
         <author>keilw</author>
         <link>http://unitsofmeasurement.github.io\2014\second-post.html</link>
         <pubDate>24.01.2014 00:00:00</pubDate>
         <guid isPermaLink="false">\2014\second-post.html</guid>
         <description>
-          &lt;p&gt;Werner Keil and Leonardo Lima presented the idea of a Units of Measurement JSR to the JCP Executive Committee in Redwood Shores, CA.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://www.slideshare.net/keilw/sensor-web-33289394&quot;&gt;http://www.slideshare.net/keilw/sensor-web-33289394&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Werner Keil and Leonardo Lima presented the idea of a Units of Measurement JSR to the JCP Executive Committee in Redwood Shores, CA.&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/33289394&quot; width=&quot;597&quot; height=&quot;486&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://de.slideshare.net/keilw/sensor-web-33289394&quot; title=&quot;M2M, Sensor Web, Observations and Measurements&quot; target=&quot;_blank&quot;&gt;M2M, Sensor Web, Observations and Measurements&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/keilw&quot; target=&quot;_blank&quot;&gt;Werner Keil&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
         </description>
       </item>
       <item>
-        <title>First Post</title>
+        <title>Pecha Kucha Night</title>
         <author>keilw</author>
         <link>http://unitsofmeasurement.github.io\2013\first-post.html</link>
         <pubDate>18.12.2013 00:00:00</pubDate>
