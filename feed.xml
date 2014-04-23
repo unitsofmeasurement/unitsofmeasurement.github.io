@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Units of Measurement.</title>
+    <link>http://unitsofmeasurement.github.io/</link>
+    <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>For future use?</description>
+    <language>en</language>
+    <pubDate>23.04.2014 03:01:00</pubDate>
+    <lastBuildDate>23.04.2014 03:01:00</lastBuildDate>
+
+      <item>
+        <title>Second Post</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\second-post.html</link>
+        <pubDate>24.01.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\second-post.html</guid>
+        <description>
+          &lt;p&gt;Werner Keil and Leonardo Lima presented the idea of a Units of Measurement JSR to the JCP Executive Committee in Redwood Shores, CA.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://www.slideshare.net/keilw/sensor-web-33289394&quot;&gt;http://www.slideshare.net/keilw/sensor-web-33289394&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>First Post</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2013\first-post.html</link>
+        <pubDate>18.12.2013 00:00:00</pubDate>
+        <guid isPermaLink="false">\2013\first-post.html</guid>
+        <description>
+          &lt;p&gt;Units of Measurement presented at Pecha Kucha Night Frankfurt (DE).&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://de.slideshare.net/keilw/m4-m-m2mpechakucha13de&quot;&gt;http://de.slideshare.net/keilw/m4-m-m2mpechakucha13de&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
+  </channel> 
+</rss>
