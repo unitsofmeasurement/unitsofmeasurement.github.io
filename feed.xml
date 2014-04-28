@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>24.04.2014 03:27:16</pubDate>
-    <lastBuildDate>24.04.2014 03:27:16</lastBuildDate>
+    <pubDate>29.04.2014 01:30:32</pubDate>
+    <lastBuildDate>29.04.2014 01:30:32</lastBuildDate>
 
+      <item>
+        <title>World IoT Day</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\iotday.html</link>
+        <pubDate>09.04.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\iotday.html</guid>
+        <description>
+          &lt;p&gt;After JSR 363 passed the Creation Review, the first public presentation took part on World IoT Day 2014. I visited &lt;a href=&quot;http://www.meetup.com/IoT-Zurich/events/166408222/&quot;&gt;IoT MeetUp Zurich&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The hosts were quite honored to have someone from outside Switzerland come by, and we all enjoyed Thai Curry cooked in a Raspberry Pi powered &lt;a href=&quot;http://www.everycook.org/&quot;&gt;EveryCook&lt;/a&gt; device.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>JSR 363 Accepted</title>
         <author>keilw</author>
