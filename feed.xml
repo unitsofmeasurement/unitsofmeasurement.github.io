@@ -6,9 +6,29 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>11.08.2014 20:39:25</pubDate>
-    <lastBuildDate>11.08.2014 20:39:25</lastBuildDate>
+    <pubDate>16.09.2014 15:45:46</pubDate>
+    <lastBuildDate>16.09.2014 15:45:46</lastBuildDate>
 
+      <item>
+        <title>Eclipse DemoCamp and Maker Faire Trondheim 2014</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\edct_tmf14.html</link>
+        <pubDate>28.08.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\edct_tmf14.html</guid>
+        <description>
+          &lt;p&gt;After a great Eclipse DemoCamp Trondheim last year, I was invited to talk about &lt;a href=&quot;http://www.eclipse.org/uomo/&quot;&gt;UOMo&lt;/a&gt;, JSR 363 and the Quantified Self at &lt;a href=&quot;http://www.meetup.com/Trondheim-Eclipse-User-Group/events/170849682/&quot;&gt;Eclipse Luna DemoCamp Trondheim&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/highres_408259772_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;&lt;p&gt;We continued with a practical exercise of measuring a few &quot;Pints&quot; in the city. Interestingly after my &quot;Measure for Measure&quot; themed talk the pub was named &quot;Macbeth&quot; just like the other (probably more famous) play by William Shakespeare;-)&lt;/p&gt;&lt;p&gt;The following day, the Force (in Newton;-D) was very strong with me, when I presented the improved version of &lt;a href=&quot;http://java-embedded-challenge.github.io/heart-of-glass/&quot;&gt;Heart of Glass&lt;/a&gt; from last year&apos;s JavaOne Raspberry Pi Challenge at &lt;a href=&quot;http://www.trondheimmakerfaire.no/en/&quot;&gt;Trondheim Maker Faire&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF0608_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;&lt;p&gt;I offered to measure his pulse and heart rate, but he didn&apos;t want to get out of his body armor;-D&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>EclipseCon France</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\ecf14.html</link>
+        <pubDate>17.06.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\ecf14.html</guid>
+        <description>
+          &lt;p&gt;&lt;a href=&quot;http://www.eclipsecon.org/france2014/&quot;&gt;EclipseCon France 2014&lt;/a&gt; in Toulouse was an opportunity to present JSR 363 and what it means to the &lt;a href=&quot;http://www.eclipse.org/uomo/&quot;&gt;UOMo project&lt;/a&gt; at the Science WG &lt;a href=&quot;http://www.eclipsecon.org/france2014/unconference&quot;&gt;Unconference Meeting&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF9643_473x640.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF9634_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;&lt;p&gt;It was also a chance to meet Co Spec Lead Jean-Marie Dautelle (below on the left) in his home town.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF9653_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;&lt;p&gt;The following day Jean-Marie pressented &lt;a href=&quot;http://www.javolution.org/&quot;&gt;Javolution&lt;/a&gt;, and projects using it like &lt;a href=&quot;http://www.jscience.org/&quot;&gt;JScience&lt;/a&gt; in a lightning talk on how it can improve scalability.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF9712_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>First EG F2F during JCP EC F2F in London</title>
         <author>keilw</author>
