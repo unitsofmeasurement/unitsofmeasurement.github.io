@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>15.11.2014 19:28:16</pubDate>
-    <lastBuildDate>15.11.2014 19:28:16</lastBuildDate>
+    <pubDate>02.12.2014 23:17:28</pubDate>
+    <lastBuildDate>02.12.2014 23:17:28</lastBuildDate>
 
+      <item>
+        <title>JavaOne 2014</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\javaone14-f2f.html</link>
+        <pubDate>02.10.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\javaone14-f2f.html</guid>
+        <description>
+          &lt;p&gt;Leonardo, Otavio (who received a JCP Award for his Adopt-a-JSR involvement) and Werner met for an EG F2F during JavaOne 2014.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/DSCF4035_640x480.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;br/&gt;Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded presentation on the final day of JavaOne 2014&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Eclipse DemoCamp and Maker Faire Trondheim 2014</title>
         <author>keilw</author>
