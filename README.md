@@ -1,4 +1,4 @@
 unitsofmeasurement.github.io
 ============================
 
-Unitsofmeasurement.org Web Site
+Unitsofmeasurement Web Site
