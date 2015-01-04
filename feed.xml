@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>02.12.2014 23:17:28</pubDate>
-    <lastBuildDate>02.12.2014 23:17:28</lastBuildDate>
+    <pubDate>04.01.2015 19:32:45</pubDate>
+    <lastBuildDate>04.01.2015 19:32:45</lastBuildDate>
 
+      <item>
+        <title>Early Draft</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2014\edr.html</link>
+        <pubDate>29.12.2014 00:00:00</pubDate>
+        <guid isPermaLink="false">\2014\edr.html</guid>
+        <description>
+          &lt;p&gt;Today, the Java Community Process published the Early Draft Release of JSR 363 for Review:&lt;br/&gt;&lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/edr/jsr363/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/edr/jsr363/index.html&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Corresponding GitHub release tags for API are:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.7&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.7&lt;/a&gt;&lt;br/&gt;and for the RI:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.7&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.7&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>JavaOne 2014</title>
         <author>keilw</author>
