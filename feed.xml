@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>04.01.2015 19:32:45</pubDate>
-    <lastBuildDate>04.01.2015 19:32:45</lastBuildDate>
+    <pubDate>14.01.2015 19:41:01</pubDate>
+    <lastBuildDate>14.01.2015 19:41:01</lastBuildDate>
 
+      <item>
+        <title>EG F2F during JCP EC F2F in San Jose</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io\2015\jan15-f2f.html</link>
+        <pubDate>14.01.2015 00:00:00</pubDate>
+        <guid isPermaLink="false">\2015\jan15-f2f.html</guid>
+        <description>
+          &lt;p&gt;Leonardo and Werner as well as Bruno representing SouJava (with members especially Otavio involved as EG Member via Adopt-a-JSR) met for the first EG F2F in 2015, pretty much one year after the &quot;Kick-off&quot; presentation at Oracle last January. &lt;a href=&quot;https://jcp.org/en/resources/EC_summaries&quot;&gt;January 2015 JCP EC F2F&lt;/a&gt; at Freescale in San Jose, California.&lt;/p&gt;&lt;p&gt;Leonardo and Werner reported on the state of JSR 363, the recently started EDR and plans for next stages of the JSR.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/JCP_Jan-2015_640x424.jpg&quot;  alt=&quot;alt text&quot;/&gt;&lt;br/&gt;Group Picture at the JCP EC F2F&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Early Draft</title>
         <author>keilw</author>
