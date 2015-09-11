@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Aug 11, 2015 8:36:59 PM</pubDate>
-    <lastBuildDate>Aug 11, 2015 8:36:59 PM</lastBuildDate>
+    <pubDate>Sep 11, 2015 8:02:03 PM</pubDate>
+    <lastBuildDate>Sep 11, 2015 8:02:03 PM</lastBuildDate>
 
+      <item>
+        <title>Profiling JSR 363</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2015/profilage.html</link>
+        <pubDate>Sep 10, 2015 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2015/profilage.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;http://assets.cdn.moviepilot.de/assets/store/131e896b385f5dbf578db43404897d5363e1d814c9cf8fd5da6671535eb1/profilage-season-5-poster-01.jpg&quot; alt=&quot;Profilage&quot; title=&quot;Profilage S05&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;Following the very fine-grained &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/optionality.html#OptionalityAndDependencies&quot;&gt;Optionality and Dependencies&lt;/a&gt; of JSR 361 (Java ME Embedded Profile 8) and &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/profilesets.html&quot;&gt;Profile Sets&lt;/a&gt; recommended for it, we introduced a similar, yet far less complex number of profiles to JSR 363.&lt;/p&gt;&lt;p&gt;The current profiles are:&lt;br/&gt; - Minimal&lt;br/&gt; - Format&lt;br/&gt; - Base Quantity&lt;br/&gt; - Quantity&lt;br/&gt; - SPI&lt;br/&gt; - Full&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>R.I.P., hitchBOT</title>
         <author>keilw</author>
