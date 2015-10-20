@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 20, 2015 2:39:54 PM</pubDate>
-    <lastBuildDate>Sep 20, 2015 2:39:54 PM</lastBuildDate>
+    <pubDate>Oct 21, 2015 12:53:06 AM</pubDate>
+    <lastBuildDate>Oct 21, 2015 12:53:06 AM</lastBuildDate>
 
+      <item>
+        <title>Data Quality on Mars - Apache BigData Europe 2015</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2015/apache-on-mars.html</link>
+        <pubDate>Oct 10, 2015 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2015/apache-on-mars.html</guid>
+        <description>
+          &lt;p&gt;Just a day after NASA had unveiled new images and details about Mars, I presented Data Quality and Unit standards from SensorML to ISO 80000 and how JSR 363 can support them at Apache Big Data Europe 2015 in Budapest:&lt;br/&gt;&lt;a href=&quot;http://sched.co/3zww&quot;&gt;Data Quality on Mars - ISO 80000 and other Standards&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;It was also a chance to meet EG veteran (initial member of JSR 108 already) and fellow speaker Martin.&lt;br/&gt;&lt;img src=&quot;/img/DSCF8131_640x601.jpg&quot; alt=&quot;alt text&quot; title=&quot;Meeting Martin at Apache BigData Europe&quot;&quot;/&gt;&lt;br/&gt;Meeting Martin at Apache BigData Europe.&lt;/p&gt;&lt;p&gt;We used the opportunity for a detailed review of Spec, API and TCK.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Profiling JSR 363</title>
         <author>keilw</author>
