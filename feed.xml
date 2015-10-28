@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Oct 21, 2015 12:53:06 AM</pubDate>
-    <lastBuildDate>Oct 21, 2015 12:53:06 AM</lastBuildDate>
+    <pubDate>Oct 28, 2015 1:25:21 PM</pubDate>
+    <lastBuildDate>Oct 28, 2015 1:25:21 PM</lastBuildDate>
 
+      <item>
+        <title>JavaOne 2015, JCP Award</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2015/javaone15-jcpaward.html</link>
+        <pubDate>Oct 28, 2015 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2015/javaone15-jcpaward.html</guid>
+        <description>
+          &lt;p&gt;After some EG members met at the end of the previous week for the JCP EC F2F Otavio, Leonardo and Werner demonstrated JSR 363 in two &lt;a href=&quot;https://blogs.oracle.com/javaone/entry/help_build_the_future_at&quot;&gt;Hackergarten sessions&lt;/a&gt; at JavaOne 2015. Running on Java SE 8 on Intel Edison as well as Java ME 8 Embedded on a Freescale board.&lt;/p&gt;&lt;p&gt;While there was no main conference session on JSR 363 it won the JCP Award as &lt;a href=&quot;https://jcp.org/en/press/news/awards/2015award_nominees&quot;&gt;Most Significant JSR of the year&lt;/a&gt; presented at the 13th annual JCP Party.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/img/IMG_7325_640x480.jpg&quot; alt=&quot;alt text&quot; title=&quot;JSR 363 EG Members with JCP Awards&quot;&quot;/&gt;&lt;br/&gt;JSR 363 EG Members with JCP Awards&lt;/p&gt;&lt;p&gt;In the Outstanding Adopt-a-JSR Participant category, EG member and adopter Raj from JUG Chennai won&lt;br/&gt;another JCP Award this year.&lt;/p&gt;&lt;p&gt;Congratulations to everyone and thanks a lot for your contribution that helped us win this award.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Data Quality on Mars - Apache BigData Europe 2015</title>
         <author>keilw</author>
