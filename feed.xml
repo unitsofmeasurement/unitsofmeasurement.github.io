@@ -6,9 +6,29 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Oct 28, 2015 1:35:57 PM</pubDate>
-    <lastBuildDate>Oct 28, 2015 1:35:57 PM</lastBuildDate>
+    <pubDate>Nov 30, 2015 8:59:56 PM</pubDate>
+    <lastBuildDate>Nov 30, 2015 8:59:56 PM</lastBuildDate>
 
+      <item>
+        <title>Public Review</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2015/pr.html</link>
+        <pubDate>Nov 18, 2015 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2015/pr.html</guid>
+        <description>
+          &lt;p&gt;Today, the Java Community Process posted the Public Review of JSR 363:&lt;br/&gt;&lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/pr/jsr363/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/pr/jsr363/index.html&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Corresponding GitHub release tags for API are:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.8&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.8&lt;/a&gt;&lt;br/&gt;for the RI:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.8&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.8&lt;/a&gt;&lt;br/&gt;and for the TCK:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/0.5&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/0.5&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Most other artifacts like unit systems, libraries or &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos&quot;&gt;uom-demos&lt;/a&gt; got corresponding tags like &quot;Public Review equivalent&quot; buiding upon the PR stage JSR. All of them except demos can also be found either on MavenCentral or Bintray JCenter.&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>DevoXX BE 2015</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2015/devoxxbe15.html</link>
+        <pubDate>Nov 15, 2015 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2015/devoxxbe15.html</guid>
+        <description>
+          &lt;p&gt;On the last day of DevoXX BE 2015 in Antwerp, after many had already seen cutting edge QS and Embedded technologies in &lt;a href=&quot;http://www.devoxx.be/2015/10/james-bond/&quot;&gt;James Bond Spectre&lt;/a&gt; and a literal &lt;a href=&quot;http://cfp.devoxx.be/2015/talk/EDW-7208/Providing_Eyes,_Ears,_and_a_Mouth_to_Your_IoT_Project&quot;&gt;hands-on IoT session&lt;/a&gt; by Yara and Vinicius, Werner presented &lt;a href=&quot;http://cfp.devoxx.be/2015/talk/PPU-4757/The_First_IoT_JSR:_Units_of_Measurement_&quot;&gt;The First IoT JSR: Units of Measurement&lt;/a&gt;. Unfortunately, JSR 363 EG members and co-speakers Mohamed and Otavio could not make it due to travel budget constraints.&lt;br/&gt;While two Cloud/Big Data sessions by both Google and Microsoft as well as a &quot;CSI: Cyber&quot; style security talk by highly acclaimed Security consultant and Hacker Dan Tentler drew a large portion of the crowd to the other 3 rooms, it still ended up with a decent crowd, exceeding all other JSR 363 related talks of 2015, including a similar DevoXX UK session in London. &lt;/p&gt;&lt;p&gt;For everyone who did not attend the session or wants to watch it again, here&apos;s the YouTube recording:&lt;br/&gt;&lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/AGLX-HlPHrc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>JavaOne 2015, JCP Award</title>
         <author>keilw</author>
