@@ -6,9 +6,19 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jul 20, 2016 10:24:55 PM</pubDate>
-    <lastBuildDate>Jul 20, 2016 10:24:55 PM</lastBuildDate>
+    <pubDate>Jul 20, 2016 10:46:51 PM</pubDate>
+    <lastBuildDate>Jul 20, 2016 10:46:51 PM</lastBuildDate>
 
+      <item>
+        <title>Proposed Final Draft</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2016/pfd.html</link>
+        <pubDate>Jul 19, 2016 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2016/pfd.html</guid>
+        <description>
+          &lt;p&gt;Today, the Java Community Process posted the Proposed Final Draft of JSR 363:&lt;br/&gt;&lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/pfd/jsr363/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/pfd/jsr363/index.html&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Corresponding GitHub release tags for API are:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.9&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/0.9&lt;/a&gt;&lt;br/&gt;for the RI:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.9&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/0.9&lt;/a&gt;&lt;br/&gt;and for the TCK:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/0.9&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/0.9&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Most other artifacts like unit systems, libraries or &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos&quot;&gt;uom-demos&lt;/a&gt; got corresponding tags like &quot;Public Final Draft&quot; or &quot;PFD equivalent&quot; buiding upon the PFD stage JSR. All of them except demos can also be found either on MavenCentral, Bintray JCenter or both.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>EG F2F during JCP EC F2F in Rio de Janeiro</title>
         <author>keilw</author>
