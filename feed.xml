@@ -6,8 +6,8 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jun 24, 2016 12:11:09 AM</pubDate>
-    <lastBuildDate>Jun 24, 2016 12:11:09 AM</lastBuildDate>
+    <pubDate>Jul 20, 2016 10:24:55 PM</pubDate>
+    <lastBuildDate>Jul 20, 2016 10:24:55 PM</lastBuildDate>
 
       <item>
         <title>EG F2F during JCP EC F2F in Rio de Janeiro</title>
@@ -66,7 +66,7 @@
         <pubDate>Sep 15, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/profilage.html</guid>
         <description>
-          &lt;p&gt;&lt;img src=&quot;http://assets.cdn.moviepilot.de/assets/store/131e896b385f5dbf578db43404897d5363e1d814c9cf8fd5da6671535eb1/profilage-season-5-poster-01.jpg&quot; alt=&quot;Profilage&quot; title=&quot;Profilage S05&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;Following the very fine-grained &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/optionality.html#OptionalityAndDependencies&quot;&gt;Optionality and Dependencies&lt;/a&gt; of JSR 361 (Java ME Embedded Profile 8) and &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/profilesets.html&quot;&gt;Profile Sets&lt;/a&gt; recommended for it, we introduced a similar, yet far less complex number of profiles to JSR 363.&lt;/p&gt;&lt;p&gt;The current profiles are:&lt;br/&gt; - Minimal&lt;br/&gt; - Format&lt;br/&gt; - Base Quantity&lt;br/&gt; - Quantity&lt;br/&gt; - SPI&lt;br/&gt; - Full&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://github.com/unitsofmeasurement/unit-tck#profiles&quot;&gt;TCK Profiles&lt;/a&gt; for further details.&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&quot;/img/tf1_media_ingest88463_image_0_600x800.jpg&quot; alt=&quot;Profilage&quot; title=&quot;Profilage S05&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;Following the very fine-grained &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/optionality.html#OptionalityAndDependencies&quot;&gt;Optionality and Dependencies&lt;/a&gt; of JSR 361 (Java ME Embedded Profile 8) and &lt;a href=&quot;http://docs.oracle.com/javame/config/cldc/opt-pkgs/api/meep/api/doc-files/profilesets.html&quot;&gt;Profile Sets&lt;/a&gt; recommended for it, we introduced a similar, yet far less complex number of profiles to JSR 363.&lt;/p&gt;&lt;p&gt;The current profiles are:&lt;br/&gt; - Minimal&lt;br/&gt; - Format&lt;br/&gt; - Base Quantity&lt;br/&gt; - Quantity&lt;br/&gt; - SPI&lt;br/&gt; - Full&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://github.com/unitsofmeasurement/unit-tck#profiles&quot;&gt;TCK Profiles&lt;/a&gt; for further details.&lt;/p&gt;
         </description>
       </item>
       <item>
