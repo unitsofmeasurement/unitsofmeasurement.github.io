@@ -6,8 +6,8 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 15, 2016 3:29:11 PM</pubDate>
-    <lastBuildDate>Sep 15, 2016 3:29:11 PM</lastBuildDate>
+    <pubDate>Sep 15, 2016 4:47:54 PM</pubDate>
+    <lastBuildDate>Sep 15, 2016 4:47:54 PM</lastBuildDate>
 
       <item>
         <title>Final Release</title>
@@ -16,7 +16,7 @@
         <pubDate>Sep 13, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/final.html</guid>
         <description>
-          &lt;p&gt;Last week the Final Approval Ballot for JSR 363 at the Java Community Process finished. JSR 363 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=5877&quot;&gt;https://jcp.org/en/jsr/results?id=5877&lt;/a&gt;.&lt;br/&gt;The Final Release page is: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/final/jsr363/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/final/jsr363/index.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/1.0&lt;/a&gt;&lt;br/&gt;for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/1.0&lt;/a&gt;&lt;br/&gt;and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/1.0&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Most other artifacts like unit systems, libraries or &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos&quot;&gt;uom-demos&lt;/a&gt; got corresponding tags like &quot;Final Release&quot; or &quot;Final equivalent&quot; buiding upon 1.0. All of them except demos can also be found either on MavenCentral, Bintray JCenter or both.&lt;/p&gt;
+          &lt;p&gt;Last week the Final Approval Ballot for JSR 363 at the Java Community Process finished. JSR 363 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=5877&quot;&gt;https://jcp.org/en/jsr/results?id=5877&lt;/a&gt;.&lt;br/&gt;Final Release page: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/final/jsr363/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/final/jsr363/index.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/1.0&lt;/a&gt;&lt;br/&gt;for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/1.0&lt;/a&gt;&lt;br/&gt;and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/1.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/1.0&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Most other artifacts like unit systems, libraries or &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos&quot;&gt;uom-demos&lt;/a&gt; got corresponding tags like &quot;Final Release&quot; or &quot;Final equivalent&quot; buiding upon 1.0. All of them except demos can also be found either on MavenCentral, Bintray JCenter or both.&lt;/p&gt;
         </description>
       </item>
       <item>
