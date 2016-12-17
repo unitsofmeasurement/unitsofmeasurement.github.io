@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Dec 17, 2016 6:59:32 PM</pubDate>
-    <lastBuildDate>Dec 17, 2016 6:59:32 PM</lastBuildDate>
+    <pubDate>Dec 17, 2016 7:39:03 PM</pubDate>
+    <lastBuildDate>Dec 17, 2016 7:39:03 PM</lastBuildDate>
 
+      <item>
+        <title>100-Thousandth Download of JSR 275 exceeded</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2016/jsr275-100k.html</link>
+        <pubDate>Dec 13, 2016 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2016/jsr275-100k.html</guid>
+        <description>
+          &lt;p&gt;About two months after JSR 363 had gone &lt;a href=&quot;2016/final.html&quot;&gt;Final&lt;/a&gt; its predecessor JSR 275 exceeded the 100-thousandth download within a period of less than 12 months:&lt;br/&gt;&lt;img src=&quot;/img/jsr275_100k.png&quot; alt=&quot;alt text&quot; title=&quot;JSR 275 exceeded 100-thousandth download&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;See Bintray statistics:&lt;br/&gt;&lt;a href=&quot;https://bintray.com/keilw/maven/javax.measure%3Ajsr-275#statistics&quot;&gt;https://bintray.com/keilw/maven/javax.measure%3Ajsr-275#statistics&lt;/a&gt;&lt;br/&gt;Click &quot;1 Year&quot; date range.&lt;/p&gt;
+&lt;p&gt;We hope, over time some of those users will migrate to JSR 363 where can get support for an official standard. A very large number of those 100k plus downloads seems related to &lt;a href=&quot;http://www.geoapi.org/&quot;&gt;GeoAPI&lt;/a&gt; and various products or projects implementing and extending it. An upcoming version of GeoAPI should migrate to JSR 363, so where those downstream projects started using new versions, we shall sooner or later see those numbers shift towards JSR 363.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Final Release</title>
         <author>keilw</author>
