@@ -6,8 +6,8 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Dec 17, 2016 7:39:03 PM</pubDate>
-    <lastBuildDate>Dec 17, 2016 7:39:03 PM</lastBuildDate>
+    <pubDate>Mar 19, 2017 7:22:56 PM</pubDate>
+    <lastBuildDate>Mar 19, 2017 7:22:56 PM</lastBuildDate>
 
       <item>
         <title>100-Thousandth Download of JSR 275 exceeded</title>
@@ -19,6 +19,18 @@
           &lt;p&gt;About two months after JSR 363 had gone &lt;a href=&quot;2016/final.html&quot;&gt;Final&lt;/a&gt; its predecessor JSR 275 exceeded the 100-thousandth download within a period of less than 12 months:&lt;br/&gt;&lt;img src=&quot;/img/jsr275_100k.png&quot; alt=&quot;alt text&quot; title=&quot;JSR 275 exceeded 100-thousandth download&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;See Bintray statistics:&lt;br/&gt;&lt;a href=&quot;https://bintray.com/keilw/maven/javax.measure%3Ajsr-275#statistics&quot;&gt;https://bintray.com/keilw/maven/javax.measure%3Ajsr-275#statistics&lt;/a&gt;&lt;br/&gt;Click &quot;1 Year&quot; date range.&lt;/p&gt;
 &lt;p&gt;We hope, over time some of those users will migrate to JSR 363 where can get support for an official standard. A very large number of those 100k plus downloads seems related to &lt;a href=&quot;http://www.geoapi.org/&quot;&gt;GeoAPI&lt;/a&gt; and various products or projects implementing and extending it. An upcoming version of GeoAPI should migrate to JSR 363, so where those downstream projects started using new versions, we shall sooner or later see those numbers shift towards JSR 363.&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>JavaOne 2016</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
+        <pubDate>Sep 20, 2016 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2016/javaone16-f2f.html</guid>
+        <description>
+          &lt;p&gt;After meeting for a JCP EC F2F / EG F2F for the last time (because the EG officially no longer exists after JSR 363 went final), Leonardo, Otavio and Werner presented JSR 363 during a JavaOne BOF (BOF5981) on Sep 19th, right before the annual JCP Party.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/snWt7RenZ9Hj8H&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LeonardoDeMouraRocha/the-first-iot-jsr-units-of-measurement-jsr363-bof5981&quot; title=&quot;The First IoT JSR: Units of Measurement JSR-363 [BOF5981]&quot; target=&quot;_blank&quot;&gt;The First IoT JSR: Units of Measurement JSR-363 [BOF5981]&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/LeonardoDeMouraRocha&quot;&gt;Leonardo De Moura Rocha Lima&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/eSo8ZHArZTPWPI&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LeonardoDeMouraRocha/using-java-and-standards-for-fast-iot-development-con5513&quot; title=&quot;Using Java and Standards for Fast IoT Development [CON5513]&quot; target=&quot;_blank&quot;&gt;Using Java and Standards for Fast IoT Development [CON5513]&lt;/a&gt; &lt;/strong&gt; von &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/LeonardoDeMouraRocha&quot;&gt;Leonardo De Moura Rocha Lima&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
         </description>
       </item>
       <item>
@@ -34,11 +46,11 @@
         </description>
       </item>
       <item>
-        <title>JavaOne 2016</title>
+        <title>JavaOne 2016 Announcement</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
+        <link>http://unitsofmeasurement.github.io2016/javaone16-announce.html</link>
         <pubDate>Aug 28, 2016 12:00:00 AM</pubDate>
-        <guid isPermaLink="false">2016/javaone16-f2f.html</guid>
+        <guid isPermaLink="false">2016/javaone16-announce.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;https://www.oracle.com/us/assets/j1-250x250-im-speaking-3089473.jpg&quot; alt=&quot;alt text&quot; title=&quot;I&amp;#39;m speaking at JavaOne 2016&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;After meeting for a JCP EC F2F / EG F2F, Leonardo, Otavio and Werner will present JSR 363 during a JavaOne BOF (BOF5981) on Sep 19th, right before the annual JCP Party. On Wednesday, Sep 21, Werner presents JSR 374, JSON-P 1.1 (CON6264) with some real life use cases like Unicode CLDR tooling that are also related to JSR 363.&lt;br/&gt;&lt;a href=&quot;https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&amp;search=jsr-363&amp;search.event=javaone&quot;&gt;https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&amp;search=jsr-363&amp;search.event=javaone&lt;/a&gt;&lt;/p&gt;
