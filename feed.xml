@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Mar 20, 2017 12:48:00 AM</pubDate>
-    <lastBuildDate>Mar 20, 2017 12:48:00 AM</lastBuildDate>
+    <pubDate>Apr 9, 2017 5:43:37 PM</pubDate>
+    <lastBuildDate>Apr 9, 2017 5:43:37 PM</lastBuildDate>
 
+      <item>
+        <title>DevoXX US 2017</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2017/devoxxus17.html</link>
+        <pubDate>Mar 23, 2017 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2017/devoxxus17.html</guid>
+        <description>
+          &lt;p&gt;On the first ever DevoXX US in San Jose, California, Leo and Otavio presented JSR 363.&lt;/p&gt;
+&lt;p&gt;After DevoXX UK and Belgium in 2015 and a related session Werner gave while DevoXX Morocco was still called JMaghreb, this marked 4 out of currently 6 DevoXX venues with a session on JSR 363.&lt;br/&gt;Although at Geecon and not DevoXX Poland, Werner also presented Standards for Java Embedded in Krakow, so that way it&apos;s actually 5 out of 6 with only Paris missing ;-)&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/xKMvrwBXPHPXap&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LeonardoDeMouraRocha/jsr363-devoxx-us&quot; title=&quot;JSR363 - Devoxx US&quot; target=&quot;_blank&quot;&gt;JSR363 - Devoxx US&lt;/a&gt; &lt;/strong&gt; von &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/LeonardoDeMouraRocha&quot;&gt;Leonardo De Moura Rocha Lima&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>100-Thousandth Download of JSR 275 exceeded</title>
         <author>keilw</author>
