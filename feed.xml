@@ -6,8 +6,8 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Aug 15, 2017 9:00:27 PM</pubDate>
-    <lastBuildDate>Aug 15, 2017 9:00:27 PM</lastBuildDate>
+    <pubDate>Aug 16, 2017 12:47:03 AM</pubDate>
+    <lastBuildDate>Aug 16, 2017 12:47:03 AM</lastBuildDate>
 
       <item>
         <title>A Taste of Indriya</title>
@@ -17,7 +17,7 @@
         <guid isPermaLink="false">2017/taste_of_indriya.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/N_Indriya_Small.jpg&quot; alt=&quot;alt text&quot; title=&quot;Indriya&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;We recently did a &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/issues/67&quot;&gt;survey&lt;/a&gt; about a matching future code name for a Units of Measurement RI. Anticipating a follow-up JSR near a &lt;a href=&quot;https://en.wikipedia.org/wiki/Proposed_redefinition_of_SI_base_units&quot;&gt;proposed redefinition of SI base units&lt;/a&gt;. The winner was &lt;a href=&quot;https://en.wikipedia.org/wiki/Indriya&quot;&gt;Indriya&lt;/a&gt;, the Sanskrit word for sense.&lt;/p&gt;
+&lt;p&gt;We recently did a &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/issues/67&quot;&gt;survey&lt;/a&gt; about a matching future code name for a Units of Measurement RI. Anticipating a follow-up JSR along a &lt;a href=&quot;https://en.wikipedia.org/wiki/Proposed_redefinition_of_SI_base_units&quot;&gt;proposed redefinition of SI base units&lt;/a&gt;. The winner was &lt;a href=&quot;https://en.wikipedia.org/wiki/Indriya&quot;&gt;Indriya&lt;/a&gt;, the Sanskrit word for sense.&lt;/p&gt;
 &lt;p&gt;While officially in &quot;Stealth Mode&quot; until a new JSR starts, please have a look at &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya&quot;&gt;Indriya&lt;/a&gt;. It is based on &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-se&quot;&gt;uom-se&lt;/a&gt; with a few tweaks and improvements like the first draft of a &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/issues/1&quot;&gt;CompoundUnit&lt;/a&gt; etc. Therefore fully compatible with the API and other existing implementations. It is a bit early, but for those who like their &quot;coffee&quot; fresh and hot, please feel free to already taste it.&lt;/p&gt;
         </description>
       </item>
