@@ -3,11 +3,11 @@
   <head>
     <title>
     Units of Measurement
-        - About
+        - Apache SIS 0.8
     </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="keilw">
+    <meta name="author" content="desruisseaux">
     <meta name="description" content="Static blog generated with JBake">
 
     <!-- Style -->
@@ -85,25 +85,46 @@
 
     <!-- Begin page content -->
     <div class="container">
-
+      
       <div class="row">
         <div class="col-md-12">
           <article>
-            <h2>About</h2>
-            <p><p>The Unit of Measurement API provides a set of Java language programming interfaces for handling units and quantities.<br/>The interfaces provide a layer which separates client code, that would call the API,<br/>from library code, which implements the API.</p>
-<p><img src="/img/duke_measure_250x250.png" alt="alt text" title="Measuring Duke" /></p>
-<p>The specification contains Interfaces and abstract classes with methods for unit operations:<br/>* Checking of unit compatibility<br/>* Expression of a quantity in various units<br/>* Arithmetic operations on units</p>
-<p>Developers frequently encounter the need to model units of measure, because objects in the real world are subject to these measures.<br/>When working with units, developers need to understand the mathematics of units, how to convert between systems,<br/>and how to format and parse string representations of units. Most of this work can be consolidated into one or two Java packages,<br/>which is a primary aim of this JSR. This package will help developers create safe, correct software to deal with common problem of modeling units.</p>
-<p>Units give us a way to measure the physical world. There are many different units, partly because the world has different types of properties,<br/>such as length and mass, which are not interchangeable in normal physics. This type of property is sometimes called a "quantity" or a "dimension".<br/>The word "dimension" fits because of the orthogonality of these properties. For example "mass" and "length" cannot be exchanged.<br/>Further, when we multiply physical measures the dimensions add up as exponents. For example, length times length becomes length².</p>
-<p>A large body of work exists that specifies the dimensions, meanings, and names of various physical quantities.<br/>In particular, the 11th General Conference on Weights and Measures in 1960 recommended a practical system of units of measurement,<br/>and gave it the name Systeme International d'Units (SI).<br/>SI defines units for the base dimensions of length, mass, time, electric current,<br/>thermodynamic temperature, amount of substance, and luminous intensity.<br/>SI also recognizes names and meaning of derived dimensions,<br/>such as area, volume, and force.<br/>For some (but not all) of these derived dimensions SI defines units,<br/>such as "liter" for a unit of volume and "newton" for a unit of force.<br/>SI does not have a special name for area,<br/>although other systems of measurement do (as in "acre").</p>
-<p>Despite the rising prominence of the metric system (the SI system), many developers have to work with non-SI units,<br/>such as feet, miles, acres, and gallons. A measurement can be expressed as a number of any unit,<br/>so long as the unit has the same dimension as the measured quantity. For example,<br/>any measure of volume can be expressed as a number of liters or gallons,<br/>because liters and gallons are units of volume, and all volumes have the dimension of length^3.<br/>Therefore, a measure expressed as a number of liters can be 'converted' to a number of gallons.<br/>Converting measures from one system of units to another is a common problem,<br/>but is subject to mathematics that can help to eliminate errors.</p>
-<p><em>What's with Duke and that haircut?</em></p>
-<p><img src="/img/duke_measure1_640.jpg" alt="alt text" title="Measure for Measure Duke" /></p>
-<p>The image refers to the Shakespeare play "Measure for Measure",<br/>occasionally used by presentations on JSR 363.<br/>In the story a Duke disguised as a friar spies on his subjects, so Duke sounded like a good match (not for the spying we hope;-)</p></p>
-          </article>
+            <div class="page-header"><h1>Apache SIS 0.8</h1>
+              <ol class="breadcrumb tagsbar">
+                <li><a href="/tags/java.html">java</a></li>
+                <li><a href="/tags/apache.html">apache</a></li>
+                <li><a href="/tags/sis.html">sis</a></li>
+                <li><a href="/tags/jsr.html">jsr</a></li>
+                <li><a href="/tags/implementation.html">implementation</a></li>
+              </ol>
+            </div>
+          <p class="post-meta">
+            <i class="fa fa-calendar"></i>&nbsp;24 November 2017&nbsp;&nbsp;
+            <i class="fa fa-user"></i>&nbsp;keilw&nbsp;&nbsp;
+          </p>
+              <p><p><img src="http://sis.apache.org/img/logo.png" alt="alt text" title="Apache SIS" /></p>
+<p>The Apache SIS PMC is pleased to announce the immediate availability of<br/>the SIS 0.8 release.</p>
+<p>The release can be obtained from the Apache SIS download page -<br/><a href="http://sis.apache.org/downloads.html">http://sis.apache.org/downloads.html</a></p>
+<p>Release notes are available at -<br/><a href="http://sis.apache.org/release-notes/0.8.html">http://sis.apache.org/release-notes/0.8.html</a></p>
+<p>Apache SIS is a Java language library for developing geospatial<br/>applications. SIS provides data structures for geographic features and<br/>associated metadata along with methods to manipulate those data<br/>structures. The library is an implementation of GeoAPI 3.0 interfaces<br/>and can be used for desktop or server applications.</p>
+<p>Some Apache SIS features are:</p>
+<ul>
+  <li>Geographic metadata (ISO 19115)<br/> o Read/write ISO 19139 compliant XML documents<br/> o Read from netCDF, GeoTIFF, Landsat, GPX and Moving Feature CSV<br/> encoding</li>
+  <li>Referencing by coordinates (ISO 19111) or by identifiers (ISO 19112)<br/> o Well Known Text (WKT) version 1 and 2 (ISO 19162)<br/> o Geographic Markup Language (GML) version 3.2 (ISO 19136)<br/> o Geodetic objects and operations from EPSG geodetic dataset<br/> o Mercator, Lambert, stereographic and more map projections<br/> o Geohashes and Military Grid Reference System (MGRS)<br/> o Optional bridge to Proj.4 as a complement to Apache SIS own<br/> referencing engine</li>
+  <li>Units of measurement<br/> o <strong>JSR-363</strong> with parsing, formating and unit conversion functionalities</li>
+</ul>
+<p>For general information on Apache SIS, please visit the project website:<br/><a href="http://sis.apache.org/">http://sis.apache.org/</a></p></p>
+      <div class="share">
+  <!-- Facebook -->
+          <a href="http://www.facebook.com/sharer.php?u=http://unitsofmeasurement.github.io2017/sis08.html" target="_blank"><img src="/img/sharebuttons/facebook.png" alt="Facebook" /></a>
+  <!-- Google+ -->
+  <!-- Twitter -->
+          <a href="http://twitter.com/share?url=http://unitsofmeasurement.github.io2017/sis08.html&text=Apache SIS 0.8 unitsofmeasurement.github.io2017/sis08.html" target="_blank"><img src="/img/sharebuttons/twitter.png" alt="Twitter" /></a>
+      </div>
+            </article>
         </div> <!-- /.col-md-12 -->
       </div> <!-- /.row -->
-
+        
       </div><!-- /.container -->
 
     <footer>

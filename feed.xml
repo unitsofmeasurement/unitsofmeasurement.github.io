@@ -6,9 +6,30 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Aug 16, 2017 12:47:03 AM</pubDate>
-    <lastBuildDate>Aug 16, 2017 12:47:03 AM</lastBuildDate>
+    <pubDate>Dec 5, 2017 3:12:24 PM</pubDate>
+    <lastBuildDate>Dec 5, 2017 3:12:24 PM</lastBuildDate>
 
+      <item>
+        <title>Apache SIS 0.8</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2017/sis08.html</link>
+        <pubDate>Nov 24, 2017 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2017/sis08.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;http://sis.apache.org/img/logo.png&quot; alt=&quot;alt text&quot; title=&quot;Apache SIS&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Apache SIS PMC is pleased to announce the immediate availability of&lt;br/&gt;the SIS 0.8 release.&lt;/p&gt;
+&lt;p&gt;The release can be obtained from the Apache SIS download page -&lt;br/&gt;&lt;a href=&quot;http://sis.apache.org/downloads.html&quot;&gt;http://sis.apache.org/downloads.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Release notes are available at -&lt;br/&gt;&lt;a href=&quot;http://sis.apache.org/release-notes/0.8.html&quot;&gt;http://sis.apache.org/release-notes/0.8.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apache SIS is a Java language library for developing geospatial&lt;br/&gt;applications. SIS provides data structures for geographic features and&lt;br/&gt;associated metadata along with methods to manipulate those data&lt;br/&gt;structures. The library is an implementation of GeoAPI 3.0 interfaces&lt;br/&gt;and can be used for desktop or server applications.&lt;/p&gt;
+&lt;p&gt;Some Apache SIS features are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Geographic metadata (ISO 19115)&lt;br/&gt; o Read/write ISO 19139 compliant XML documents&lt;br/&gt; o Read from netCDF, GeoTIFF, Landsat, GPX and Moving Feature CSV&lt;br/&gt; encoding&lt;/li&gt;
+  &lt;li&gt;Referencing by coordinates (ISO 19111) or by identifiers (ISO 19112)&lt;br/&gt; o Well Known Text (WKT) version 1 and 2 (ISO 19162)&lt;br/&gt; o Geographic Markup Language (GML) version 3.2 (ISO 19136)&lt;br/&gt; o Geodetic objects and operations from EPSG geodetic dataset&lt;br/&gt; o Mercator, Lambert, stereographic and more map projections&lt;br/&gt; o Geohashes and Military Grid Reference System (MGRS)&lt;br/&gt; o Optional bridge to Proj.4 as a complement to Apache SIS own&lt;br/&gt; referencing engine&lt;/li&gt;
+  &lt;li&gt;Units of measurement&lt;br/&gt; o &lt;strong&gt;JSR-363&lt;/strong&gt; with parsing, formating and unit conversion functionalities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For general information on Apache SIS, please visit the project website:&lt;br/&gt;&lt;a href=&quot;http://sis.apache.org/&quot;&gt;http://sis.apache.org/&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>A Taste of Indriya</title>
         <author>keilw</author>
