@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Dec 5, 2017 3:12:24 PM</pubDate>
-    <lastBuildDate>Dec 5, 2017 3:12:24 PM</lastBuildDate>
+    <pubDate>Jan 2, 2018 1:44:12 AM</pubDate>
+    <lastBuildDate>Jan 2, 2018 1:44:12 AM</lastBuildDate>
 
+      <item>
+        <title>Eclipe UOMo 0.7</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2017/uomo07.html</link>
+        <pubDate>Dec 31, 2017 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2017/uomo07.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/uomo.png&quot; alt=&quot;alt text&quot; title=&quot;Eclipse UOMo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Following Apache SIS 0.8 Eclipse UOMo 0.7 offers another compatible JSR 363 implementation. A Release Candidate is available &lt;a href=&quot;https://www.eclipse.org/uomo/download.php&quot;&gt;here&lt;/a&gt;. You can find a matching TCK harness under &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck-usage/tree/uomo&quot;&gt;https://github.com/unitsofmeasurement/unit-tck-usage/tree/uomo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Until EMO concludes the Release review, please build UOMo 0.7 from source or install it into a local Maven repository before running the tests. After that we&apos;ll make UOMo 0.7 available in public repositories like JCenter or MavenCentral.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Apache SIS 0.8</title>
         <author>keilw</author>
