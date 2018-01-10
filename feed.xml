@@ -6,9 +6,20 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jan 2, 2018 1:51:52 AM</pubDate>
-    <lastBuildDate>Jan 2, 2018 1:51:52 AM</lastBuildDate>
+    <pubDate>Jan 10, 2018 11:00:52 PM</pubDate>
+    <lastBuildDate>Jan 10, 2018 11:00:52 PM</lastBuildDate>
 
+      <item>
+        <title>JSR 385 Accepted</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2018/accepted20.html</link>
+        <pubDate>Jan 8, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/accepted20.html</guid>
+        <description>
+          &lt;p&gt;The JCP Executive Committee has accepted the Creation of JSR 385, Units of Measurement API 2.0&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6096&quot;&gt;https://jcp.org/en/jsr/results?id=6096&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Eclipse UOMo 0.7</title>
         <author>keilw</author>
