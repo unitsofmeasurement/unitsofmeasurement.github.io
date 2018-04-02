@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jan 10, 2018 11:00:52 PM</pubDate>
-    <lastBuildDate>Jan 10, 2018 11:00:52 PM</lastBuildDate>
+    <pubDate>Apr 2, 2018 2:09:49 AM</pubDate>
+    <lastBuildDate>Apr 2, 2018 2:09:49 AM</lastBuildDate>
 
+      <item>
+        <title>New TLDs</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2018/new_tlds.html</link>
+        <pubDate>Mar 18, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/new_tlds.html</guid>
+        <description>
+          &lt;p&gt;Following a recent vote &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/issues/35&quot;&gt;Indriya #35&lt;/a&gt; we decided to switch from virtual TLDs &quot;.tec&quot;, the only option back in 2014 to actual new &quot;tech&quot; TLDs that became usable after 2015. A small difference, but with domains like &quot;uom.tech&quot; or &quot;units.tech&quot; we can also use them for web pages or email addresses.&lt;/p&gt;
+&lt;p&gt;Similar to JSR 363 &quot;units.tech&quot; will be reserved for the JSR (mostly RI and TCK) while &quot;uom.tech&quot; serves the wider project and all other artifacts.&lt;/p&gt;
+&lt;p&gt;Find them on Search.maven.org under &lt;a href=&quot;http://search.maven.org/#search%7Cga%7C1%7Ctech.units&quot;&gt;tech.units&lt;/a&gt; or &lt;a href=&quot;http://search.maven.org/#search%7Cga%7C1%7Ctech.uom&quot;&gt;tech.uom&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>JSR 385 Accepted</title>
         <author>keilw</author>
