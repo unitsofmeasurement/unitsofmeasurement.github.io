@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Apr 2, 2018 2:39:52 AM</pubDate>
-    <lastBuildDate>Apr 2, 2018 2:39:52 AM</lastBuildDate>
+    <pubDate>Apr 29, 2018 1:51:41 PM</pubDate>
+    <lastBuildDate>Apr 29, 2018 1:51:41 PM</lastBuildDate>
 
+      <item>
+        <title>Ready for Java 10</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2018/java10.html</link>
+        <pubDate>Apr 28, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/java10.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;http://technikes.com/wp-content/uploads/2017/09/java-10_1.png&quot; alt=&quot;alt text&quot; title=&quot;Ready for Java 10?&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Indriya and JSR 385 are ready for and working with Java 10!&lt;br/&gt;While the API and Indriya remain fully backward compatible with Java SE 8 and at least the API will do (for Indriya we may explore &lt;a href=&quot;https://blog.codefx.org/tools/multi-release-jars-multiple-java-versions/&quot;&gt;Multi-release JARs&lt;/a&gt; if it was highly beneficial and justified the increased JAR size) both work perfectly fine with Java 10.&lt;/p&gt;
+&lt;p&gt;The first &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/java10&quot;&gt;Units of Measurement Console Demos&lt;/a&gt; show how to use the Java 10 &lt;code&gt;var&lt;/code&gt; feature with JSR 385 and Indriya. More to come. Stay tuned or contribute Java 9, 10 or 11 support you would like to see and use.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>New TLDs</title>
         <author>keilw</author>
