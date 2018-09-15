@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Units of Measurement.</title>
-    <link>http://unitsofmeasurement.github.io/</link>
-    <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://https://unitsofmeasurement.github.io/</link>
+    <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 15, 2018 11:55:31 PM</pubDate>
-    <lastBuildDate>Sep 15, 2018 11:55:31 PM</lastBuildDate>
+    <pubDate>Sep 16, 2018 12:03:34 AM</pubDate>
+    <lastBuildDate>Sep 16, 2018 12:03:34 AM</lastBuildDate>
 
       <item>
         <title>World Metrology Day 2018</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2018/wmd18.html</link>
+        <link>http://https://unitsofmeasurement.github.io2018/wmd18.html</link>
         <pubDate>May 20, 2018 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/wmd18.html</guid>
         <description>
@@ -24,7 +24,7 @@
       <item>
         <title>Ready for Java 10</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2018/java10.html</link>
+        <link>http://https://unitsofmeasurement.github.io2018/java10.html</link>
         <pubDate>Apr 28, 2018 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/java10.html</guid>
         <description>
@@ -36,7 +36,7 @@
       <item>
         <title>New TLDs</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2018/new_tlds.html</link>
+        <link>http://https://unitsofmeasurement.github.io2018/new_tlds.html</link>
         <pubDate>Mar 18, 2018 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/new_tlds.html</guid>
         <description>
@@ -48,7 +48,7 @@
       <item>
         <title>JSR 385 Accepted</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2018/accepted20.html</link>
+        <link>http://https://unitsofmeasurement.github.io2018/accepted20.html</link>
         <pubDate>Jan 8, 2018 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/accepted20.html</guid>
         <description>
@@ -59,7 +59,7 @@
       <item>
         <title>Eclipse UOMo 0.7</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2017/uomo07.html</link>
+        <link>http://https://unitsofmeasurement.github.io2017/uomo07.html</link>
         <pubDate>Dec 31, 2017 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/uomo07.html</guid>
         <description>
@@ -71,7 +71,7 @@
       <item>
         <title>Apache SIS 0.8</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2017/sis08.html</link>
+        <link>http://https://unitsofmeasurement.github.io2017/sis08.html</link>
         <pubDate>Nov 24, 2017 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/sis08.html</guid>
         <description>
@@ -92,7 +92,7 @@
       <item>
         <title>A Taste of Indriya</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2017/taste_of_indriya.html</link>
+        <link>http://https://unitsofmeasurement.github.io2017/taste_of_indriya.html</link>
         <pubDate>Aug 15, 2017 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/taste_of_indriya.html</guid>
         <description>
@@ -104,7 +104,7 @@
       <item>
         <title>DevoXX US 2017</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2017/devoxxus17.html</link>
+        <link>http://https://unitsofmeasurement.github.io2017/devoxxus17.html</link>
         <pubDate>Mar 23, 2017 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/devoxxus17.html</guid>
         <description>
@@ -116,7 +116,7 @@
       <item>
         <title>100-Thousandth Download of JSR 275 exceeded</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/jsr275-100k.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/jsr275-100k.html</link>
         <pubDate>Dec 13, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/jsr275-100k.html</guid>
         <description>
@@ -128,7 +128,7 @@
       <item>
         <title>JavaOne 2016</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
         <pubDate>Sep 20, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/javaone16-f2f.html</guid>
         <description>
@@ -142,7 +142,7 @@
       <item>
         <title>Final Release</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/final.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/final.html</link>
         <pubDate>Sep 13, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/final.html</guid>
         <description>
@@ -154,7 +154,7 @@
       <item>
         <title>JavaOne 2016 Announcement</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/javaone16-announce.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/javaone16-announce.html</link>
         <pubDate>Aug 28, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/javaone16-announce.html</guid>
         <description>
@@ -165,7 +165,7 @@
       <item>
         <title>Proposed Final Draft</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/pfd.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/pfd.html</link>
         <pubDate>Jul 19, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/pfd.html</guid>
         <description>
@@ -177,7 +177,7 @@
       <item>
         <title>EG F2F during JCP EC F2F in Rio de Janeiro</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2016/jan16-f2f.html</link>
+        <link>http://https://unitsofmeasurement.github.io2016/jan16-f2f.html</link>
         <pubDate>Jan 26, 2016 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/jan16-f2f.html</guid>
         <description>
@@ -191,7 +191,7 @@
       <item>
         <title>Public Review</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/pr.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/pr.html</link>
         <pubDate>Nov 18, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/pr.html</guid>
         <description>
@@ -203,7 +203,7 @@
       <item>
         <title>DevoXX BE 2015</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/devoxxbe15.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/devoxxbe15.html</link>
         <pubDate>Nov 15, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/devoxxbe15.html</guid>
         <description>
@@ -214,7 +214,7 @@
       <item>
         <title>JavaOne 2015, JCP Award</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/javaone15-jcpaward.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/javaone15-jcpaward.html</link>
         <pubDate>Oct 28, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/javaone15-jcpaward.html</guid>
         <description>
@@ -228,7 +228,7 @@
       <item>
         <title>Data Quality on Mars - Apache BigData Europe 2015</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/apache-on-mars.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/apache-on-mars.html</link>
         <pubDate>Oct 10, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/apache-on-mars.html</guid>
         <description>
@@ -240,7 +240,7 @@
       <item>
         <title>Profiling JSR 363</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/profilage.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/profilage.html</link>
         <pubDate>Sep 15, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/profilage.html</guid>
         <description>
@@ -253,7 +253,7 @@
       <item>
         <title>R.I.P., hitchBOT</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/rip-hitchbot.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/rip-hitchbot.html</link>
         <pubDate>Aug 2, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/rip-hitchbot.html</guid>
         <description>
@@ -265,7 +265,7 @@
       <item>
         <title>Fantastic Four vs The League of Extraordinary Developers</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/fanta4.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/fanta4.html</link>
         <pubDate>Mar 15, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/fanta4.html</guid>
         <description>
@@ -277,7 +277,7 @@
       <item>
         <title>Social Media Week 2015</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/smw15.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/smw15.html</link>
         <pubDate>Feb 28, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/smw15.html</guid>
         <description>
@@ -291,7 +291,7 @@
       <item>
         <title>EG F2F during JCP EC F2F in San Jose</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2015/jan15-f2f.html</link>
+        <link>http://https://unitsofmeasurement.github.io2015/jan15-f2f.html</link>
         <pubDate>Jan 14, 2015 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/jan15-f2f.html</guid>
         <description>
@@ -303,7 +303,7 @@
       <item>
         <title>Early Draft</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/edr.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/edr.html</link>
         <pubDate>Dec 29, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/edr.html</guid>
         <description>
@@ -314,7 +314,7 @@
       <item>
         <title>JavaOne 2014</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/javaone14-f2f.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/javaone14-f2f.html</link>
         <pubDate>Oct 2, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/javaone14-f2f.html</guid>
         <description>
@@ -325,7 +325,7 @@
       <item>
         <title>Eclipse DemoCamp and Maker Faire Trondheim 2014</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/edct_tmf14.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/edct_tmf14.html</link>
         <pubDate>Aug 28, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/edct_tmf14.html</guid>
         <description>
@@ -340,7 +340,7 @@
       <item>
         <title>EclipseCon France</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/ecf14.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/ecf14.html</link>
         <pubDate>Jun 17, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/ecf14.html</guid>
         <description>
@@ -356,7 +356,7 @@
       <item>
         <title>First EG F2F during JCP EC F2F in London</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/may14-f2f.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/may14-f2f.html</link>
         <pubDate>May 14, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/may14-f2f.html</guid>
         <description>
@@ -368,7 +368,7 @@
       <item>
         <title>World IoT Day</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/iotday.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/iotday.html</link>
         <pubDate>Apr 9, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/iotday.html</guid>
         <description>
@@ -379,7 +379,7 @@
       <item>
         <title>JSR 363 Accepted</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/accepted.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/accepted.html</link>
         <pubDate>Apr 7, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/accepted.html</guid>
         <description>
@@ -390,7 +390,7 @@
       <item>
         <title>NightHacking at JUGS</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/nh_jugs.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/nh_jugs.html</link>
         <pubDate>Mar 28, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/nh_jugs.html</guid>
         <description>
@@ -401,7 +401,7 @@
       <item>
         <title>JavaLand</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/nh_javaland.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/nh_javaland.html</link>
         <pubDate>Mar 26, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/nh_javaland.html</guid>
         <description>
@@ -412,7 +412,7 @@
       <item>
         <title>Creation Review</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/cr.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/cr.html</link>
         <pubDate>Mar 11, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/cr.html</guid>
         <description>
@@ -423,7 +423,7 @@
       <item>
         <title>JCP EC F2F at Oracle HQ</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2014/second-post.html</link>
+        <link>http://https://unitsofmeasurement.github.io2014/second-post.html</link>
         <pubDate>Jan 24, 2014 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/second-post.html</guid>
         <description>
@@ -434,7 +434,7 @@
       <item>
         <title>Pecha Kucha Night</title>
         <author>keilw</author>
-        <link>http://unitsofmeasurement.github.io2013/first-post.html</link>
+        <link>http://https://unitsofmeasurement.github.io2013/first-post.html</link>
         <pubDate>Dec 18, 2013 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2013/first-post.html</guid>
         <description>
