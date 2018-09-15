@@ -6,9 +6,21 @@
     <atom:link href="http://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Apr 29, 2018 1:51:41 PM</pubDate>
-    <lastBuildDate>Apr 29, 2018 1:51:41 PM</lastBuildDate>
+    <pubDate>Sep 15, 2018 11:55:31 PM</pubDate>
+    <lastBuildDate>Sep 15, 2018 11:55:31 PM</lastBuildDate>
 
+      <item>
+        <title>World Metrology Day 2018</title>
+        <author>keilw</author>
+        <link>http://unitsofmeasurement.github.io2018/wmd18.html</link>
+        <pubDate>May 20, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/wmd18.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/wmd_2018_s.jpg&quot; alt=&quot;alt text&quot; title=&quot;World Metrology Day 2018&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875. This treaty provides the basis for a coherent measurement system worldwide that underpins scientific discovery and innovation, industrial manufacturing and international trade, as well as the improvement of the quality of life and the protection of the global environment.&lt;/p&gt;
+&lt;p&gt;World Metrology Day celebrates the signature by representatives of seventeen nations of The Metre Convention on 20 May 1875. The Convention set the framework for global collaboration in the science of measurement and in its industrial, commercial and societal application. The original aim of the Metre Convention - the worldwide uniformity of measurement - remains as important today, in 2018, as it was in 1875.&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Ready for Java 10</title>
         <author>keilw</author>
