@@ -6,9 +6,20 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Oct 7, 2018 12:51:57 AM</pubDate>
-    <lastBuildDate>Oct 7, 2018 12:51:57 AM</lastBuildDate>
+    <pubDate>Oct 7, 2018 12:59:43 AM</pubDate>
+    <lastBuildDate>Oct 7, 2018 12:59:43 AM</lastBuildDate>
 
+      <item>
+        <title>Early Draft of JSR 385</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2018/edr.html</link>
+        <pubDate>Sep 13, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/edr.html</guid>
+        <description>
+          &lt;p&gt;Today exactly 2 years after JSR 363 went Final, the Java Community Process published the Early Draft Release of JSR 385 for Review:&lt;br/&gt;&lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/edr/jsr385/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/edr/jsr385/index.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Corresponding GitHub release tags for the API:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0-EDR&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0-EDR&lt;/a&gt;&lt;br/&gt;For the RI:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.0-EDR&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.0-EDR&lt;/a&gt;&lt;br/&gt;And for the TCK:&lt;br/&gt;&lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0-EDR&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0-EDR&lt;/a&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>JavaZone 2018</title>
         <author>keilw</author>
