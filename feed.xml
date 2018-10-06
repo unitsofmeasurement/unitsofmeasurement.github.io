@@ -6,9 +6,20 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 16, 2018 12:03:34 AM</pubDate>
-    <lastBuildDate>Sep 16, 2018 12:03:34 AM</lastBuildDate>
+    <pubDate>Oct 7, 2018 12:45:55 AM</pubDate>
+    <lastBuildDate>Oct 7, 2018 12:45:55 AM</lastBuildDate>
 
+      <item>
+        <title>JavaZone 2018</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2018/javazone18.html</link>
+        <pubDate>Sep 13, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/javazone18.html</guid>
+        <description>
+          &lt;p&gt;On 2nd anniversary of JSR 363 going Final, Filip gave a JSR 385 presentation at JavaZone 2018 in Oslo: &lt;a href=&quot;https://2018.javazone.no/program/48dbefe3-fedc-43f5-8b8e-e9f8ac92f043&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;For everyone who did not attend it here&apos;s the Vimeo recording:&lt;br/&gt;&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/289668490?color=ff9933&amp;portrait=0&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;https://vimeo.com/289668490&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter : Filip van Laenen&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/javazone&quot;&gt;JavaZone&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>World Metrology Day 2018</title>
         <author>keilw</author>
