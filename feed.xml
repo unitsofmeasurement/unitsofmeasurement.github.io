@@ -6,9 +6,20 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Oct 7, 2018 12:59:43 AM</pubDate>
-    <lastBuildDate>Oct 7, 2018 12:59:43 AM</lastBuildDate>
+    <pubDate>Nov 16, 2018 12:10:59 PM</pubDate>
+    <lastBuildDate>Nov 16, 2018 12:10:59 PM</lastBuildDate>
 
+      <item>
+        <title>26th CGPM</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2018/cgpm26.html</link>
+        <pubDate>Nov 16, 2018 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2018/cgpm26.html</guid>
+        <description>
+          &lt;p&gt;At its 25th meeting (November 2014) the CGPM adopted a Resolution on the future revision of the International System of Units. This Resolution built on the CGPM&apos;s previous Resolution (2011), which took note of the CIPM&apos;s intention to propose a revision of the SI and set out a detailed roadmap towards the future changes.&lt;/p&gt;
+&lt;p&gt;Witness a historic moment on 16 November 2018; join an open session of the 26th CGPM considering the revision of the SI.&lt;br/&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+        </description>
+      </item>
       <item>
         <title>Early Draft of JSR 385</title>
         <author>keilw</author>
