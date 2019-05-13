@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>May 13, 2019, 11:49:16 PM</pubDate>
-    <lastBuildDate>May 13, 2019, 11:49:16 PM</lastBuildDate>
+    <pubDate>May 14, 2019, 12:26:13 AM</pubDate>
+    <lastBuildDate>May 14, 2019, 12:26:13 AM</lastBuildDate>
 
       <item>
         <title>100-Thousandth Download of Unit-API exceeded</title>
@@ -17,7 +17,7 @@
         <guid isPermaLink="false">2019/unit-api_100k.html</guid>
         <description>
           &lt;p&gt;Just one week before World Metrology Day 2019 and shortly before the Public Review of JSR 385 the combined downloads of Unit-API (JSR 363 and 385) exceeded the 100-thousandth download within a period of 12 months:&lt;br /&gt;
-&lt;img src=&quot;/img/jsr385_111k.png&quot; alt=&quot;alt text&quot; title=&quot;Unit-API exceeded 100-thousandth download&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/img/jsr385_111k.png&quot; alt=&quot;111k Unit-API downloads&quot; title=&quot;Unit-API exceeded 100-thousandth download&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;See Bintray statistics:&lt;br /&gt;
 &lt;a href=&quot;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&quot;&gt;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&lt;/a&gt;&lt;br /&gt;
 Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
