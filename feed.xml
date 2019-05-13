@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>May 14, 2019, 1:12:09 AM</pubDate>
-    <lastBuildDate>May 14, 2019, 1:12:09 AM</lastBuildDate>
+    <pubDate>May 14, 2019, 1:22:10 AM</pubDate>
+    <lastBuildDate>May 14, 2019, 1:22:10 AM</lastBuildDate>
 
       <item>
         <title>100-Thousandth Download of Unit-API exceeded</title>
@@ -22,6 +22,19 @@
 &lt;a href=&quot;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&quot;&gt;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&lt;/a&gt;&lt;br /&gt;
 Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
 &lt;p&gt;Currently the vast majority are JSR 363 downloads, but once JSR 385 goes Final, we expect to see more of it and probably even a higher total number across both versions.&lt;/p&gt;
+
+        </description>
+      </item>
+      <item>
+        <title>ACCU 2019</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2019/accu19.html</link>
+        <pubDate>Apr 10, 2019, 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2019/accu19.html</guid>
+        <description>
+          &lt;p&gt;On the April 10th, shortly after the originally anticipated Brexit, Filip gave another JSR 385 presentation at ACCU 2019 in Bristol: &lt;a href=&quot;https://conference.accu.org/2019/sessions.html#XJSR385Learningfromthe125MillionDollarMarsClimateOrbiterMistake&quot;&gt;JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For everyone who did not attend the session or wants to watch it again, here&apos;s the YouTube recording:&lt;/p&gt;
+&lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/QJ5LVsxLrZs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
         </description>
       </item>
@@ -112,20 +125,6 @@ And for the TCK:&lt;br /&gt;
 &lt;p&gt;Indriya and JSR 385 are ready for and working with Java 10!&lt;br /&gt;
 While the API and Indriya remain fully backward compatible with Java SE 8 and at least the API will do (for Indriya we may explore &lt;a href=&quot;https://blog.codefx.org/tools/multi-release-jars-multiple-java-versions/&quot;&gt;Multi-release JARs&lt;/a&gt; if it was highly beneficial and justified the increased JAR size) both work perfectly fine with Java 10.&lt;/p&gt;
 &lt;p&gt;The first &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/java10&quot;&gt;Units of Measurement Console Demos&lt;/a&gt; show how to use the Java 10 &lt;code&gt;var&lt;/code&gt; feature with JSR 385 and Indriya. More to come. Stay tuned or contribute Java 9, 10 or 11 support you would like to see and use.&lt;/p&gt;
-
-        </description>
-      </item>
-      <item>
-        <title>ACCU 2019</title>
-        <author>keilw</author>
-        <link>http://https://unitsofmeasurement.github.io2019/accu19.html</link>
-        <pubDate>Apr 10, 2018, 12:00:00 AM</pubDate>
-        <guid isPermaLink="false">2019/accu19.html</guid>
-        <description>
-          &lt;p&gt;On the April 10th, shortly after the originally anticipated Brexit, Filip gave another JSR 385 presentation at ACCU 2019 in Bristol: &lt;a href=&quot;https://conference.accu.org/2019/sessions.html#XJSR385Learningfromthe125MillionDollarMarsClimateOrbiterMistake&quot;&gt;JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For everyone who did not attend it here&apos;s the Vimeo recording:&lt;/p&gt;
-&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QJ5LVsxLrZs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/289668490&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter : Filip van Laenen&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/javazone&quot;&gt;JavaZone&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
         </description>
       </item>
