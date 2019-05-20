@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>May 14, 2019, 1:22:10 AM</pubDate>
-    <lastBuildDate>May 14, 2019, 1:22:10 AM</lastBuildDate>
+    <pubDate>May 21, 2019, 12:53:00 AM</pubDate>
+    <lastBuildDate>May 21, 2019, 12:53:00 AM</lastBuildDate>
 
+      <item>
+        <title>World Metrology Day 2019</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2019/wmd19.html</link>
+        <pubDate>May 20, 2019, 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2019/wmd19.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/SI_Illustration_Full_621x621.png&quot; alt=&quot;alt text&quot; title=&quot;World Metrology Day 2019&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875. This treaty provides the basis for a coherent measurement system worldwide that underpins scientific discovery and innovation, industrial manufacturing and international trade, as well as the improvement of the quality of life and the protection of the global environment.&lt;/p&gt;
+&lt;p&gt;World Metrology Day 2019 has a special importance, because on 16 November 2018, the General Conference on Weights and Measures agreed perhaps one of the most significant revisions to the International System of Units (the SI) since its inception. Research into new measurement methods, including those using quantum phenomena, underpin the change, which comes into force on 20 May 2019. The SI is now based on a set of definitions each linked to the laws of physics and have the advantage of being able to embrace further improvements in measurement science and technology to meet the needs of future users for many years to come.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>100-Thousandth Download of Unit-API exceeded</title>
         <author>keilw</author>
