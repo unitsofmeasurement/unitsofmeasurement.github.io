@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jul 20, 2019, 12:11:34 PM</pubDate>
-    <lastBuildDate>Jul 20, 2019, 12:11:34 PM</lastBuildDate>
+    <pubDate>Jul 20, 2019, 6:12:58 PM</pubDate>
+    <lastBuildDate>Jul 20, 2019, 6:12:58 PM</lastBuildDate>
 
       <item>
         <title>Valhalla</title>
@@ -32,8 +32,8 @@
         <description>
           &lt;p&gt;This week the first ever &lt;strong&gt;Public Review Final Approval Ballot&lt;/strong&gt; for JSR 385 at the Java Community Process finished. JSR 385 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6199&quot;&gt;https://jcp.org/en/jsr/results?id=6199&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We plan to release a final Specification document and publish all artifacts to JCP.org soon. In the meantime, you can find them on Github already, API: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
-for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
-and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&lt;/a&gt;&lt;/p&gt;
+RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
+and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&lt;/a&gt;&lt;/p&gt;
 
         </description>
       </item>
