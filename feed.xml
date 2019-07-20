@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jul 20, 2019, 9:29:51 AM</pubDate>
-    <lastBuildDate>Jul 20, 2019, 9:29:51 AM</lastBuildDate>
+    <pubDate>Jul 20, 2019, 9:38:45 AM</pubDate>
+    <lastBuildDate>Jul 20, 2019, 9:38:45 AM</lastBuildDate>
 
       <item>
         <title>Valhalla</title>
@@ -20,6 +20,20 @@
 &lt;p&gt;&lt;img src=&quot;/img/valhalla_854x363.jpg&quot; alt=&quot;Valhalla&quot; title=&quot;Marvel: Valhalla&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;In the &amp;quot;Zeus&amp;quot; hall on &lt;a href=&quot;http://www.jcrete.org/&quot;&gt;JCrete 2019&lt;/a&gt; Hack day Werner got the Valhalla Early-Access Build of Java 14 to run with Unit API.&lt;/p&gt;
 &lt;p&gt;Bringing together Ancient Greek gods with their equivalents from Nordic mythology if you want. You can find them under [valhalla].(&lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/valhalla&quot;&gt;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/valhalla&lt;/a&gt;)&lt;/p&gt;
+
+        </description>
+      </item>
+      <item>
+        <title>Public Review Final Approval</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2019/prfa.html</link>
+        <pubDate>Jul 15, 2019, 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2019/prfa.html</guid>
+        <description>
+          &lt;p&gt;This week the first ever Public Review Final Approval Ballot for JSR 385 at the Java Community Process finished. JSR 385 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6199&quot;&gt;https://jcp.org/en/jsr/results?id=6199&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We plan to release a final Specification document and publish all artifacts to JCP.org soon. In the meantime, you can find them on Github already, API: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
+for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-ri/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
+and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&lt;/a&gt;&lt;/p&gt;
 
         </description>
       </item>
