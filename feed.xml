@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Aug 4, 2019, 4:51:17 PM</pubDate>
-    <lastBuildDate>Aug 4, 2019, 4:51:17 PM</lastBuildDate>
+    <pubDate>Aug 4, 2019, 4:56:52 PM</pubDate>
+    <lastBuildDate>Aug 4, 2019, 4:56:52 PM</lastBuildDate>
 
       <item>
         <title>Valhalla</title>
@@ -38,7 +38,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         </description>
       </item>
       <item>
-        <title>Utrecht JUG Adopts JSR-385</title>
+        <title>Utrecht JUG Adopts JSR 385</title>
         <author>thodorisbais</author>
         <link>http://https://unitsofmeasurement.github.io2019/adopt-a-jsr-day-utrecht-jug.html</link>
         <pubDate>Jun 1, 2019, 12:00:00 AM</pubDate>
@@ -55,7 +55,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ggO5Du3DQYE&quot;&gt;Vaadin video demo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Interview with Werner after the event:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kEMZmoMXYbY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/kEMZmoMXYbY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
         </description>
       </item>
