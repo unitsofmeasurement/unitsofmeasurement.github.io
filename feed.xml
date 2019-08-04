@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Aug 4, 2019, 4:50:26 PM</pubDate>
-    <lastBuildDate>Aug 4, 2019, 4:50:26 PM</lastBuildDate>
+    <pubDate>Aug 4, 2019, 4:51:17 PM</pubDate>
+    <lastBuildDate>Aug 4, 2019, 4:51:17 PM</lastBuildDate>
 
       <item>
         <title>Valhalla</title>
@@ -55,7 +55,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ggO5Du3DQYE&quot;&gt;Vaadin video demo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Interview with Werner after the event:&lt;/p&gt;
-&lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/watch?v=kEMZmoMXYbY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kEMZmoMXYbY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
         </description>
       </item>
