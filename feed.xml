@@ -6,12 +6,12 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 2, 2019, 1:13:00 AM</pubDate>
-    <lastBuildDate>Sep 2, 2019, 1:13:00 AM</lastBuildDate>
+    <pubDate>Sep 2, 2019, 1:16:54 AM</pubDate>
+    <lastBuildDate>Sep 2, 2019, 1:16:54 AM</lastBuildDate>
 
       <item>
         <title>2.0 Final Release</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/final.html</link>
         <pubDate>Aug 29, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/final.html</guid>
@@ -30,7 +30,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
       </item>
       <item>
         <title>Valhalla</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/valhalla.html</link>
         <pubDate>Jul 19, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/valhalla.html</guid>
@@ -44,7 +44,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
       </item>
       <item>
         <title>Public Review Final Approval</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/prfa.html</link>
         <pubDate>Jul 15, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/prfa.html</guid>
@@ -58,7 +58,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
       </item>
       <item>
         <title>Utrecht JUG Adopts JSR 385</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/adopt-a-jsr-day-utrecht-jug.html</link>
         <pubDate>Jun 1, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/adopt-a-jsr-day-utrecht-jug.html</guid>
@@ -80,7 +80,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
       </item>
       <item>
         <title>World Metrology Day 2019</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/wmd19.html</link>
         <pubDate>May 20, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/wmd19.html</guid>
@@ -93,7 +93,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
       </item>
       <item>
         <title>100-Thousandth Download of Unit-API exceeded</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/unit-api_100k.html</link>
         <pubDate>May 13, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/unit-api_100k.html</guid>
@@ -109,7 +109,7 @@ Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
       </item>
       <item>
         <title>ACCU 2019</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/accu19.html</link>
         <pubDate>Apr 10, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/accu19.html</guid>
@@ -122,7 +122,7 @@ Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
       </item>
       <item>
         <title>OOP 2019</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/oop19.html</link>
         <pubDate>Feb 1, 2019, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2019/oop19.html</guid>
@@ -137,7 +137,7 @@ According to OOP organizers the session was very well received by attendees, too
       </item>
       <item>
         <title>26th CGPM</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/cgpm26.html</link>
         <pubDate>Nov 16, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/cgpm26.html</guid>
@@ -153,7 +153,7 @@ considering the revision of the SI – including redefinition of four base units
       </item>
       <item>
         <title>Early Draft of JSR 385</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/edr.html</link>
         <pubDate>Sep 13, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/edr.html</guid>
@@ -171,7 +171,7 @@ And for the TCK:&lt;br /&gt;
       </item>
       <item>
         <title>JavaZone 2018</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/javazone18.html</link>
         <pubDate>Sep 13, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/javazone18.html</guid>
@@ -185,7 +185,7 @@ And for the TCK:&lt;br /&gt;
       </item>
       <item>
         <title>World Metrology Day 2018</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/wmd18.html</link>
         <pubDate>May 20, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/wmd18.html</guid>
@@ -198,7 +198,7 @@ And for the TCK:&lt;br /&gt;
       </item>
       <item>
         <title>Ready for Java 10</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/java10.html</link>
         <pubDate>Apr 28, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/java10.html</guid>
@@ -212,7 +212,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
       </item>
       <item>
         <title>New TLDs</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/new_tlds.html</link>
         <pubDate>Mar 18, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/new_tlds.html</guid>
@@ -225,7 +225,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
       </item>
       <item>
         <title>JSR 385 Accepted</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/accepted20.html</link>
         <pubDate>Jan 8, 2018, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2018/accepted20.html</guid>
@@ -237,7 +237,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
       </item>
       <item>
         <title>Eclipse UOMo 0.7</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/uomo07.html</link>
         <pubDate>Dec 31, 2017, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/uomo07.html</guid>
@@ -250,7 +250,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
       </item>
       <item>
         <title>Apache SIS 0.8</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/sis08.html</link>
         <pubDate>Nov 24, 2017, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/sis08.html</guid>
@@ -291,7 +291,7 @@ o &lt;strong&gt;JSR-363&lt;/strong&gt; with parsing, formating and unit conversi
       </item>
       <item>
         <title>A Taste of Indriya</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/taste_of_indriya.html</link>
         <pubDate>Aug 15, 2017, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/taste_of_indriya.html</guid>
@@ -304,7 +304,7 @@ o &lt;strong&gt;JSR-363&lt;/strong&gt; with parsing, formating and unit conversi
       </item>
       <item>
         <title>DevoXX US 2017</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/devoxxus17.html</link>
         <pubDate>Mar 23, 2017, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2017/devoxxus17.html</guid>
@@ -318,7 +318,7 @@ Although at Geecon and not DevoXX Poland, Werner also presented Standards for Ja
       </item>
       <item>
         <title>100-Thousandth Download of JSR 275 exceeded</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/jsr275-100k.html</link>
         <pubDate>Dec 13, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/jsr275-100k.html</guid>
@@ -334,7 +334,7 @@ Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
       </item>
       <item>
         <title>JavaOne 2016</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
         <pubDate>Sep 20, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/javaone16-f2f.html</guid>
@@ -351,7 +351,7 @@ Following the JCP Award Otavio won as Outstanding Adopt-a-JSR Participant 2014 a
       </item>
       <item>
         <title>Final Release</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/final.html</link>
         <pubDate>Sep 13, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/final.html</guid>
@@ -367,7 +367,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
       </item>
       <item>
         <title>JavaOne 2016 Announcement</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/javaone16-announce.html</link>
         <pubDate>Aug 28, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/javaone16-announce.html</guid>
@@ -380,7 +380,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
       </item>
       <item>
         <title>Proposed Final Draft</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/pfd.html</link>
         <pubDate>Jul 19, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/pfd.html</guid>
@@ -399,7 +399,7 @@ and for the TCK:&lt;br /&gt;
       </item>
       <item>
         <title>EG F2F during JCP EC F2F in Rio de Janeiro</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/jan16-f2f.html</link>
         <pubDate>Jan 26, 2016, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2016/jan16-f2f.html</guid>
@@ -417,7 +417,7 @@ Group Picture at the JCP EC F2F&lt;/p&gt;
       </item>
       <item>
         <title>Public Review</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/pr.html</link>
         <pubDate>Nov 18, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/pr.html</guid>
@@ -436,7 +436,7 @@ and for the TCK:&lt;br /&gt;
       </item>
       <item>
         <title>DevoXX BE 2015</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/devoxxbe15.html</link>
         <pubDate>Nov 15, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/devoxxbe15.html</guid>
@@ -450,7 +450,7 @@ While two Cloud/Big Data sessions by both Google and Microsoft as well as a &amp
       </item>
       <item>
         <title>JavaOne 2015, JCP Award</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/javaone15-jcpaward.html</link>
         <pubDate>Oct 28, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/javaone15-jcpaward.html</guid>
@@ -467,7 +467,7 @@ another JCP Award this year.&lt;/p&gt;
       </item>
       <item>
         <title>Data Quality on Mars - Apache BigData Europe 2015</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/apache-on-mars.html</link>
         <pubDate>Oct 10, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/apache-on-mars.html</guid>
@@ -483,7 +483,7 @@ Meeting Martin at Apache BigData Europe.&lt;/p&gt;
       </item>
       <item>
         <title>Profiling JSR 363</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/profilage.html</link>
         <pubDate>Sep 15, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/profilage.html</guid>
@@ -503,7 +503,7 @@ Meeting Martin at Apache BigData Europe.&lt;/p&gt;
       </item>
       <item>
         <title>R.I.P., hitchBOT</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/rip-hitchbot.html</link>
         <pubDate>Aug 2, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/rip-hitchbot.html</guid>
@@ -519,7 +519,7 @@ but decided to perform an &amp;quot;autopsy&amp;quot;, leaving it scattered to p
       </item>
       <item>
         <title>Fantastic Four vs The League of Extraordinary Developers</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/fanta4.html</link>
         <pubDate>Mar 15, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/fanta4.html</guid>
@@ -536,7 +536,7 @@ Local Hero &amp;quot;Duck Asteroid&amp;quot; Chris Senior, Mr. &amp;quot;Flaming
       </item>
       <item>
         <title>Social Media Week 2015</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/smw15.html</link>
         <pubDate>Feb 28, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/smw15.html</guid>
@@ -555,7 +555,7 @@ A wide range of sensors and a brain controlled by Android (so it&apos;s also at 
       </item>
       <item>
         <title>EG F2F during JCP EC F2F in San Jose</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/jan15-f2f.html</link>
         <pubDate>Jan 14, 2015, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2015/jan15-f2f.html</guid>
@@ -569,7 +569,7 @@ Group Picture at the JCP EC F2F&lt;/p&gt;
       </item>
       <item>
         <title>Early Draft</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/edr.html</link>
         <pubDate>Dec 29, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/edr.html</guid>
@@ -585,7 +585,7 @@ and for the RI:&lt;br /&gt;
       </item>
       <item>
         <title>JavaOne 2014</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/javaone14-f2f.html</link>
         <pubDate>Oct 2, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/javaone14-f2f.html</guid>
@@ -598,7 +598,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
       </item>
       <item>
         <title>Eclipse DemoCamp and Maker Faire Trondheim 2014</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/edct_tmf14.html</link>
         <pubDate>Aug 28, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/edct_tmf14.html</guid>
@@ -614,7 +614,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
       </item>
       <item>
         <title>EclipseCon France</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/ecf14.html</link>
         <pubDate>Jun 17, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/ecf14.html</guid>
@@ -631,7 +631,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
       </item>
       <item>
         <title>First EG F2F during JCP EC F2F in London</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/may14-f2f.html</link>
         <pubDate>May 14, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/may14-f2f.html</guid>
@@ -646,7 +646,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
       </item>
       <item>
         <title>World IoT Day</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/iotday.html</link>
         <pubDate>Apr 9, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/iotday.html</guid>
@@ -658,7 +658,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
       </item>
       <item>
         <title>JSR 363 Accepted</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/accepted.html</link>
         <pubDate>Apr 7, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/accepted.html</guid>
@@ -670,7 +670,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
       </item>
       <item>
         <title>NightHacking at JUGS</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/nh_jugs.html</link>
         <pubDate>Mar 28, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/nh_jugs.html</guid>
@@ -682,7 +682,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
       </item>
       <item>
         <title>JavaLand</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/nh_javaland.html</link>
         <pubDate>Mar 26, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/nh_javaland.html</guid>
@@ -695,7 +695,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
       </item>
       <item>
         <title>Creation Review</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/cr.html</link>
         <pubDate>Mar 11, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/cr.html</guid>
@@ -707,7 +707,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
       </item>
       <item>
         <title>JCP EC F2F at Oracle HQ</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/second-post.html</link>
         <pubDate>Jan 24, 2014, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2014/second-post.html</guid>
@@ -719,7 +719,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
       </item>
       <item>
         <title>Pecha Kucha Night</title>
-        <author>thodorisbais</author>
+        <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2013/first-post.html</link>
         <pubDate>Dec 18, 2013, 12:00:00 AM</pubDate>
         <guid isPermaLink="false">2013/first-post.html</guid>
