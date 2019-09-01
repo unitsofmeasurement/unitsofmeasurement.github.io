@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 2, 2019, 1:16:54 AM</pubDate>
-    <lastBuildDate>Sep 2, 2019, 1:16:54 AM</lastBuildDate>
+    <pubDate>Sep 2, 2019, 1:22:42 AM</pubDate>
+    <lastBuildDate>Sep 2, 2019, 1:22:42 AM</lastBuildDate>
 
       <item>
         <title>2.0 Final Release</title>
@@ -24,7 +24,7 @@ If a computer system like Skynet ever did become self-aware, hopefully it gets n
 &lt;p&gt;Corresponding GitHub release tags are:&lt;br /&gt;
 API: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
 RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.0&lt;/a&gt;&lt;br /&gt;
-and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&lt;/a&gt;&lt;/p&gt;
+TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0&lt;/a&gt;&lt;/p&gt;
 
         </description>
       </item>
