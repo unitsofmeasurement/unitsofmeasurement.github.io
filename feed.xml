@@ -6,9 +6,24 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 2, 2019, 1:22:42 AM</pubDate>
-    <lastBuildDate>Sep 2, 2019, 1:22:42 AM</lastBuildDate>
+    <pubDate>Sep 17, 2019, 11:58:02 PM</pubDate>
+    <lastBuildDate>Sep 17, 2019, 11:58:02 PM</lastBuildDate>
 
+      <item>
+        <title>90-Thousand Downloads of Unit-API per month</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2019/unit-api_100k_per_month.html</link>
+        <pubDate>Sep 16, 2019, 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2019/unit-api_100k_per_month.html</guid>
+        <description>
+          &lt;p&gt;A few weeks ago a massive download surge started with almost 100k downloads of  Unit-API (JSR 363 and 385) in just 30 days.&lt;br /&gt;
+&lt;img src=&quot;/img/downloads_api_30day_2019-09-16.png&quot; alt=&quot;90k+ Unit-API downloads&quot; title=&quot;Unit-API exceeded 90-thousand downloads in 30 days&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;See Bintray statistics:&lt;br /&gt;
+&lt;a href=&quot;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&quot;&gt;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This also made the Unit-API (JSR 363 and 385) downloads exceed those of JSR 275 in the course of the last year.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>2.0 Final Release</title>
         <author>keilw</author>
