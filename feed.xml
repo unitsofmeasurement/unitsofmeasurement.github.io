@@ -6,15 +6,31 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Sep 18, 2019, 12:34:55 AM</pubDate>
-    <lastBuildDate>Sep 18, 2019, 12:34:55 AM</lastBuildDate>
+    <pubDate>Sep 26, 2019, 1:52:27 AM</pubDate>
+    <lastBuildDate>Sep 26, 2019, 1:52:27 AM</lastBuildDate>
 
+      <item>
+        <title>Orale CodeOne 2095, JCP Award</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2019/code1jcon19-jcpaward.html</link>
+        <pubDate>Sep 18, 2019, 12:00:00 AM</pubDate>
+        <guid isPermaLink="false">2019/code1jcon19-jcpaward.html</guid>
+        <description>
+          &lt;p&gt;A little less than a month after the Final Release of JSR 385 was published it won another &lt;a href=&quot;https://jcp.org/en/press/news/awards/2019award_nominees&quot;&gt;JCP Award&lt;/a&gt;. A combined Spec Lead and JSR of the Year category.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/71655780_10157723152878474_3670494620418048000_n.jpg&quot; alt=&quot;JCP Party&quot; title=&quot;Thodoris and Otavio at the JCP Party&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/70874174_1583996151730761_8764685317941755904_o_480x640.jpg&quot; alt=&quot;JCP Award&quot; title=&quot;JCP Award for Spec Lead and JSR of the Year&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Before our JSR 385 session at JCON 2019 in Düsseldorf Thodoris and Werner visited Oracle City, an small version of Legoland at JCON 2019 demonstrating Oracle Cloud and IoT features.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/DSC00767_640x480.jpg&quot; alt=&quot;Oracle City at JCON 2019&quot; title=&quot;Thodoris and Werner with the JCP Award in Oracle City at JCON 2019&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations to everyone and thanks a lot for your contribution that helped us win this award.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>90-Thousand Downloads of Unit-API per month</title>
         <author>keilw</author>
-        <link>http://https://unitsofmeasurement.github.io2019/unit-api_100k_per_month.html</link>
+        <link>http://https://unitsofmeasurement.github.io2019/unit-api_90k_per_month.html</link>
         <pubDate>Sep 16, 2019, 12:00:00 AM</pubDate>
-        <guid isPermaLink="false">2019/unit-api_100k_per_month.html</guid>
+        <guid isPermaLink="false">2019/unit-api_90k_per_month.html</guid>
         <description>
           &lt;p&gt;A few weeks ago a massive download surge started with almost 100k downloads of  Unit-API (JSR 363 and 385) in just 30 days.&lt;br /&gt;
 &lt;img src=&quot;/img/downloads_api_30day_2019-09-16.png&quot; alt=&quot;90k+ Unit-API downloads&quot; title=&quot;Unit-API exceeded 90-thousand downloads in 30 days&quot; /&gt;&lt;/p&gt;
