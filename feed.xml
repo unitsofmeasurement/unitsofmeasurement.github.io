@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jul 26, 2020, 11:32:17 PM</pubDate>
-    <lastBuildDate>Jul 26, 2020, 11:32:17 PM</lastBuildDate>
+    <pubDate>Jul 26, 2020, 11:39:13 PM</pubDate>
+    <lastBuildDate>Jul 26, 2020, 11:39:13 PM</lastBuildDate>
 
       <item>
         <title>Hanna</title>
@@ -20,7 +20,7 @@
 &lt;p&gt;No, it&apos;s not about your favorite teenage assassin &lt;a href=&quot;https://www.imdb.com/title/tt6932244/?ref_=fn_al_tt_1&quot;&gt;Hanna&lt;/a&gt; from the Amazon Original series. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hurricane_Hanna_(2020)&quot;&gt;Hurricane Hanna&lt;/a&gt; reached Texas today.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wqtsWXCzNd0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Usually the first Hurricane of the season won&apos;t reach the US  before August 10, so Hanna is nearly two weeks early, most likely due to climate change.&lt;/p&gt;
-&lt;p&gt;We updated our &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/systems&quot;&gt;Common Unit Systems Demos&lt;/a&gt; especially the Hurricane wind scale demo &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/blob/master/console/systems/common/src/main/java/tech/uom/demo/systems/common/ThePerfectStorm.java&quot;&gt;The Perfect Storm&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We updated our &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/systems&quot;&gt;Console Systems Demos&lt;/a&gt; especially the Hurricane wind scale demo &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/blob/master/console/systems/common/src/main/java/tech/uom/demo/systems/common/ThePerfectStorm.java&quot;&gt;The Perfect Storm&lt;/a&gt;.&lt;/p&gt;
 
         </description>
       </item>
