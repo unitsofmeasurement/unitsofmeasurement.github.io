@@ -6,11 +6,11 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>Jul 26, 2020, 8:08:34 PM</pubDate>
-    <lastBuildDate>Jul 26, 2020, 8:08:34 PM</lastBuildDate>
+    <pubDate>Jul 26, 2020, 11:29:46 PM</pubDate>
+    <lastBuildDate>Jul 26, 2020, 11:29:46 PM</lastBuildDate>
 
       <item>
-        <title>HANNA</title>
+        <title>Hanna</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/hanna.html</link>
         <pubDate>Jul 25, 2020, 12:00:00 AM</pubDate>
@@ -19,7 +19,9 @@
           &lt;p&gt;&lt;img src=&quot;/img/Hanna.png&quot; alt=&quot;Hanna&quot; title=&quot;HANNA&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;No, it&apos;s not about your favorite teenage assassin &lt;a href=&quot;https://www.imdb.com/title/tt6932244/?ref_=fn_al_tt_1&quot;&gt;Hanna&lt;/a&gt; from the Amazon Original series. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hurricane_Hanna_(2020)&quot;&gt;Hurricane Hanna&lt;/a&gt; reached Texas today.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wqtsWXCzNd0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Lorem Ipsum Hanna.&lt;/p&gt;
+&lt;p&gt;Usually the first Hurricane of the season won&apos;t reach the US  before August 10, so Hanna is nearly two weeks early, most likely due to climate change.&lt;/p&gt;
+&lt;p&gt;We updated our&lt;br /&gt;
+&lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/tree/master/console/systems&quot;&gt;Common Unit Systems Demos&lt;/a&gt; especially the Hurricane evacuation demo app &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos/blob/master/console/systems/common/src/main/java/tech/uom/demo/systems/common/ThePerfectStorm.java&quot;&gt;The Perfect Storm&lt;/a&gt;.&lt;/p&gt;
 
         </description>
       </item>
