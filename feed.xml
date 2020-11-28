@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>28 Nov 2020, 17:50:02</pubDate>
-    <lastBuildDate>28 Nov 2020, 17:50:02</lastBuildDate>
+    <pubDate>28 Nov 2020, 17:56:22</pubDate>
+    <lastBuildDate>28 Nov 2020, 17:56:22</lastBuildDate>
 
+      <item>
+        <title>2nd Anniversary of CGPM26</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2020/2yearsgpm26.html</link>
+        <pubDate>16 Nov 2020, 00:00:00</pubDate>
+        <guid isPermaLink="false">2020/2yearsgpm26.html</guid>
+        <description>
+          &lt;p&gt;2 years ago we witnessed a historic moment. When the members of the Metre Convention unanimously approved the SI Redefinition at the 26th General Conference on Weights and Measures (CGPM) in Versailles, Paris.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&quot;/img/SI_Illustration_Full_497x497.png&quot; alt=&quot;alt text&quot; title=&quot;SI Redefinition 2019&quot; /&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>World Science Day 2020</title>
         <author>keilw</author>
@@ -238,22 +251,6 @@ Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
 &lt;img src=&quot;/img/IMG_20190124_155810_888_768x768.jpg&quot; alt=&quot;OOP Graphic Novel&quot; title=&quot;Graphic Novel about JSR-385&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;So Filip and Werner are actual &lt;strong&gt;Comic Heroes&lt;/strong&gt; now ;-D&lt;br /&gt;
 According to OOP organizers the session was very well received by attendees, too.&lt;/p&gt;
-
-        </description>
-      </item>
-      <item>
-        <title>26th CGPM</title>
-        <author>keilw</author>
-        <link>http://https://unitsofmeasurement.github.io2020/2yearsgpm26.html</link>
-        <pubDate>16 Nov 2018, 00:00:00</pubDate>
-        <guid isPermaLink="false">2020/2yearsgpm26.html</guid>
-        <description>
-          &lt;p&gt;Witness a historic moment; join an open session of the General Conference on Weights and Measures (CGPM)&lt;br /&gt;
-considering the revision of the SI – including redefinition of four base units:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/thebipm&quot;&gt;https://www.youtube.com/thebipm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;What is the International System of Units and why do we need it?&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/srmZ2Tat3OY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
         </description>
       </item>
