@@ -6,9 +6,26 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>28 Nov 2020, 17:56:22</pubDate>
-    <lastBuildDate>28 Nov 2020, 17:56:22</lastBuildDate>
+    <pubDate>12 Jan 2021, 22:02:50</pubDate>
+    <lastBuildDate>12 Jan 2021, 22:02:50</lastBuildDate>
 
+      <item>
+        <title>2.0 Maintenance Release 1</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/mr1.html</link>
+        <pubDate>12 Jan 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/mr1.html</guid>
+        <description>
+          &lt;p&gt;Yesterday Maintenance Review Ballot for Maintenance Release 1 of JSR 385 at the Java Community Process finished. MR1 of JSR 385 was unanimously approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6257&quot;&gt;https://jcp.org/en/jsr/results?id=6257&lt;/a&gt;.&lt;br /&gt;
+Maintenance Review page: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.1&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.1&lt;/a&gt;&lt;br /&gt;
+for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.1&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.1&lt;/a&gt;&lt;br /&gt;
+and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.1&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Most other artifacts like unit systems, libraries or &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-demos&quot;&gt;uom-demos&lt;/a&gt; got corresponding &amp;quot;2.1.x&amp;quot; tags or are about to get them, also check out the &lt;a href=&quot;https://github.com/orgs/unitsofmeasurement/projects/5&quot;&gt;2.1 Release Train&lt;/a&gt; for more news and the progress of these releases on top of MR1.&lt;/p&gt;
+&lt;p&gt;Thanks everyone who helped with this release.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>2nd Anniversary of CGPM26</title>
         <author>keilw</author>
