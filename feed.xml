@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>12 Jan 2021, 22:21:23</pubDate>
-    <lastBuildDate>12 Jan 2021, 22:21:23</lastBuildDate>
+    <pubDate>12 Jan 2021, 22:26:45</pubDate>
+    <lastBuildDate>12 Jan 2021, 22:26:45</lastBuildDate>
 
       <item>
         <title>2.0 Maintenance Release 1</title>
@@ -16,8 +16,7 @@
         <pubDate>12 Jan 2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/mr1.html</guid>
         <description>
-          &lt;p&gt;Maintenance Release 1&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_640.png&quot; alt=&quot;JSR 385 MR1&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_320.png&quot; alt=&quot;JSR 385 MR1&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Yesterday Maintenance Review Ballot for Maintenance Release 1 of JSR 385 at the Java Community Process finished. MR1 of JSR 385 was unanimously approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6257&quot;&gt;https://jcp.org/en/jsr/results?id=6257&lt;/a&gt;.&lt;br /&gt;
 Maintenance Review page: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.1&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.1&lt;/a&gt;&lt;br /&gt;
