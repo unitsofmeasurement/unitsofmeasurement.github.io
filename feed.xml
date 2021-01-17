@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>12 Jan 2021, 22:27:57</pubDate>
-    <lastBuildDate>12 Jan 2021, 22:27:57</lastBuildDate>
+    <pubDate>17 Jan 2021, 18:26:14</pubDate>
+    <lastBuildDate>17 Jan 2021, 18:26:14</lastBuildDate>
 
       <item>
         <title>2.0 Maintenance Release 1</title>
@@ -112,6 +112,8 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
 &lt;p&gt;In particular, &lt;a href=&quot;https://events.codemotion.com/conferences/milan/2019/&quot;&gt;Codemotion Milan 19&lt;/a&gt; was the selected location of some &lt;a href=&quot;https://events.codemotion.com/conferences/milan/2019/news/moon-landing-celebrations/&quot;&gt;special events&lt;/a&gt;. Among the speakers, we had the pleasure to listen to Don Eyles (October, 24) and Russ Olsen (October, 25) as keynote speakers.&lt;/p&gt;
 &lt;p&gt;Before our own JSR 385 session at Codemotion Milan 2019 on October, 25, Thodoris and Werner had the privilege to interview both Don Eyles and Russ Olson.&lt;br /&gt;
 &lt;img src=&quot;/img/DSC01079_640x480.jpg&quot; alt=&quot;Interview with Don Eyles&quot; title=&quot;Werner and Thodoris with Don Eyles at Codemotion Milan 2019&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here&apos;s a more detailed video by &lt;a href=&quot;https://www.scientificamerican.com/&quot;&gt;Scientific American&lt;/a&gt; about Mars Climate Orbiter:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/urcQAKKAAl0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
         </description>
       </item>
