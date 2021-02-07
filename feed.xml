@@ -6,15 +6,15 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>7 Feb 2021, 04:48:37</pubDate>
-    <lastBuildDate>7 Feb 2021, 04:48:37</lastBuildDate>
+    <pubDate>7 Feb 2021, 04:51:57</pubDate>
+    <lastBuildDate>7 Feb 2021, 04:51:57</lastBuildDate>
 
       <item>
         <title>Kiss the Frog Goodbye</title>
         <author>keilw</author>
-        <link>http://https://unitsofmeasurement.github.io2021/kdfg.html</link>
+        <link>http://https://unitsofmeasurement.github.io2021/ktfg.html</link>
         <pubDate>7 Feb 2021, 00:00:00</pubDate>
-        <guid isPermaLink="false">2021/kdfg.html</guid>
+        <guid isPermaLink="false">2021/ktfg.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/dead-frog-48235_320.png&quot; alt=&quot;Kill the Frog&quot; title=&quot;Goodbye Frog&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;JFrog recently announced, that by May 1st, 2021 Bintray/JCenter, GoCenter and ChartCenter will be discontinued, seemingly giving in to stronger competitors like MavenCentral, ArtifactHub or pkg.go.dev, see: &lt;a href=&quot;https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/&quot;&gt;https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/&lt;/a&gt;&lt;/p&gt;
