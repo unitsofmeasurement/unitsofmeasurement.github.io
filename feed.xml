@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>23 Jan 2021, 23:27:47</pubDate>
-    <lastBuildDate>23 Jan 2021, 23:27:47</lastBuildDate>
+    <pubDate>7 Feb 2021, 04:27:41</pubDate>
+    <lastBuildDate>7 Feb 2021, 04:27:41</lastBuildDate>
 
+      <item>
+        <title>Kiss the Frog Goodbye</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/kdf.html</link>
+        <pubDate>7 Feb 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/kdf.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/dead-frog-48235_320.png&quot; alt=&quot;Kill the Frog&quot; title=&quot;Goodbye Frog&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;JFrog recently announced, that by May 1st, 2021 Bintray/JCenter, GoCenter and ChartCenter will be discontinued, seemingly giving in to stronger competitors like MavenCentral, ArtifactHub or pkg.go.dev, see: &lt;a href=&quot;https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/&quot;&gt;https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So it&apos;s time to kiss JFrog Goodbye and move on to use MavenCentral/Sonatype repositories instead. The only case where we explore the possibility of Artifactory in the Cloud for Open Source projects is the limited area of Eclipse P2 repositories.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>2.0 Maintenance Release 1</title>
         <author>keilw</author>
@@ -142,8 +155,6 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <description>
           &lt;p&gt;A few weeks ago a massive download surge started with almost 100k downloads of  Unit-API (JSR 363 and 385) in just 30 days.&lt;br /&gt;
 &lt;img src=&quot;/img/downloads_api_30day_2019-09-16.png&quot; alt=&quot;90k+ Unit-API downloads&quot; title=&quot;Unit-API exceeded 90-thousand downloads in 30 days&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;See Bintray statistics:&lt;br /&gt;
-&lt;a href=&quot;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&quot;&gt;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This also made the Unit-API (JSR 363 and 385) downloads exceed those of JSR 275 in the course of the last year.&lt;/p&gt;
 
         </description>
@@ -239,9 +250,6 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <description>
           &lt;p&gt;Just one week before World Metrology Day 2019 and shortly before the Public Review of JSR 385 the combined downloads of Unit-API (JSR 363 and 385) exceeded the 100-thousandth download within a period of 12 months:&lt;br /&gt;
 &lt;img src=&quot;/img/jsr385_111k.png&quot; alt=&quot;111k Unit-API downloads&quot; title=&quot;Unit-API exceeded 100-thousandth download&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;See Bintray statistics:&lt;br /&gt;
-&lt;a href=&quot;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&quot;&gt;https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics&lt;/a&gt;&lt;br /&gt;
-Click &amp;quot;1 Year&amp;quot; date range.&lt;/p&gt;
 &lt;p&gt;Currently the vast majority are JSR 363 downloads, but once JSR 385 goes Final, we expect to see more of it and probably even a higher total number across both versions.&lt;/p&gt;
 
         </description>
