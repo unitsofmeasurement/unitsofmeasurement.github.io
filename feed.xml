@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>13 Feb 2021, 00:33:25</pubDate>
-    <lastBuildDate>13 Feb 2021, 00:33:25</lastBuildDate>
+    <pubDate>13 Feb 2021, 00:40:00</pubDate>
+    <lastBuildDate>13 Feb 2021, 00:40:00</lastBuildDate>
 
       <item>
         <title>Buffalo Soldier</title>
@@ -63,7 +63,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
           &lt;p&gt;2 years ago we witnessed a historic moment. When the members of the Metre Convention unanimously approved the SI Redefinition at the 26th General Conference on Weights and Measures (CGPM) in Versailles, Paris.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;img src=&quot;/img/SI_Illustration_Full_497x497.png&quot; alt=&quot;alt text&quot; title=&quot;SI Redefinition 2019&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;In this occasion we released &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1&quot;&gt;version 2.1&lt;/a&gt; of the API.&lt;/p&gt;
+&lt;p&gt;On this occasion we released &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1&quot;&gt;version 2.1&lt;/a&gt; of the API.&lt;/p&gt;
 
         </description>
       </item>
