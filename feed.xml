@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>8 Feb 2021, 00:19:25</pubDate>
-    <lastBuildDate>8 Feb 2021, 00:19:25</lastBuildDate>
+    <pubDate>12 Feb 2021, 19:51:44</pubDate>
+    <lastBuildDate>12 Feb 2021, 19:51:44</lastBuildDate>
 
+      <item>
+        <title>Buffalo Soldier</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/buffalo_soldier.html</link>
+        <pubDate>12 Feb 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/buffalo_soldier.html</guid>
+        <description>
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uMUQMSXLlHM?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Today celebrating both the Chinese New Year (of the Buffalo) and Black History Month, besides addressing issue &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/issues/220&quot;&gt;https://github.com/unitsofmeasurement/unit-api/issues/220&lt;/a&gt; as well as removing Bintray links from the POM and build settings, we just released a patch version 2.1.2 of the API.&lt;/p&gt;
+&lt;p&gt;The corresponding GitHub release tag for the API is: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.2&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.2&lt;/a&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Kiss the Frog Goodbye</title>
         <author>keilw</author>
