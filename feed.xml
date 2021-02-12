@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>12 Feb 2021, 19:51:44</pubDate>
-    <lastBuildDate>12 Feb 2021, 19:51:44</lastBuildDate>
+    <pubDate>12 Feb 2021, 20:10:54</pubDate>
+    <lastBuildDate>12 Feb 2021, 20:10:54</lastBuildDate>
 
       <item>
         <title>Buffalo Soldier</title>
@@ -17,7 +17,7 @@
         <guid isPermaLink="false">2021/buffalo_soldier.html</guid>
         <description>
           &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uMUQMSXLlHM?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Today celebrating both the Chinese New Year (of the Buffalo) and Black History Month, besides addressing issue &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/issues/220&quot;&gt;https://github.com/unitsofmeasurement/unit-api/issues/220&lt;/a&gt; as well as removing Bintray links from the POM and build settings, we just released a patch version 2.1.2 of the API.&lt;/p&gt;
+&lt;p&gt;Today celebrating both the &lt;a href=&quot;https://chinesenewyear.net/&quot;&gt;Chinese New Year&lt;/a&gt; (of the &lt;a href=&quot;https://www.google.com/logos/doodles/2021/lunar-new-year-2021-multiple-countries-6753651837108857-2x.png&quot;&gt;Ox&lt;/a&gt;) and &lt;a href=&quot;https://youtu.be/3VRsJcbAg_s&quot;&gt;Black History Month 2021&lt;/a&gt;, besides addressing issue &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/issues/220&quot;&gt;#220&lt;/a&gt; as well as removing Bintray links from the POM and build settings, we just released a patch version 2.1.2 of the API.&lt;/p&gt;
 &lt;p&gt;The corresponding GitHub release tag for the API is: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.2&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1.2&lt;/a&gt;&lt;/p&gt;
 
         </description>
