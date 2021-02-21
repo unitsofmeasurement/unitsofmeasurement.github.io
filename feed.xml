@@ -6,9 +6,24 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>13 Feb 2021, 00:40:00</pubDate>
-    <lastBuildDate>13 Feb 2021, 00:40:00</lastBuildDate>
+    <pubDate>22 Feb 2021, 00:09:02</pubDate>
+    <lastBuildDate>22 Feb 2021, 00:09:02</lastBuildDate>
 
+      <item>
+        <title>Hidden Figures</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/hidden_figures.html</link>
+        <pubDate>21 Feb 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/hidden_figures.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/1000-1-1_500.jpg&quot; alt=&quot;Hidden Figures Launch&quot; title=&quot;Hidden Figures&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Honoring the Black mathematician &lt;a href=&quot;https://en.wikipedia.org/wiki/Katherine_Johnson&quot;&gt;Katherine Johnson&lt;/a&gt; whose calculations contributed to the Feb. 20, 1962, mission that made John Glenn the first American to orbit the globe, and had a spacecraft on its way to the ISS named after her: &lt;a href=&quot;https://www.npr.org/2021/02/20/969790056/spacecraft-named-for-hidden-figures-mathematician-launches-from-virginia&quot;&gt;https://www.npr.org/2021/02/20/969790056/spacecraft-named-for-hidden-figures-mathematician-launches-from-virginia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/Katherine_Johnson_at_NASA,_in_1966.jpg&quot; alt=&quot;Katherine Johnson&quot; title=&quot;Katherine Johnson at NASA in 1966&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Having met Don Eyles who also worked on the Apollo Program like her a few months ago at &lt;a href=&quot;../2019/codemotionmilan2019.html&quot;&gt;Codemotion Milan 2019&lt;/a&gt; and celebrating &lt;a href=&quot;https://youtu.be/3VRsJcbAg_s&quot;&gt;Black History Month 2021&lt;/a&gt;, besides addressing issue &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/issues/220&quot;&gt;#220&lt;/a&gt; with the API release last week, we dedicate the 2.1.2 Patch Release of Indriya to Katherine Johnson and her colleagues.&lt;/p&gt;
+&lt;p&gt;The corresponding GitHub release tag for the RI is: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.2&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.2&lt;/a&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Buffalo Soldier</title>
         <author>keilw</author>
