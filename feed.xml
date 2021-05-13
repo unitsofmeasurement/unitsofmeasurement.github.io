@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>13 May 2021, 19:08:32</pubDate>
-    <lastBuildDate>13 May 2021, 19:08:32</lastBuildDate>
+    <pubDate>13 May 2021, 22:10:52</pubDate>
+    <lastBuildDate>13 May 2021, 22:10:52</lastBuildDate>
 
       <item>
         <title>20th Anniversary of JSR 108</title>
@@ -90,8 +90,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <pubDate>16 Nov 2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/2yearsgpm26.html</guid>
         <description>
-          &lt;p&gt;2 years ago we witnessed a historic moment. When the members of the Metre Convention unanimously approved the SI Redefinition at the 26th General Conference on Weights and Measures (CGPM) in Versailles, Paris.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+          &lt;p&gt;2 years ago we witnessed a historic moment. When the members of the Metre Convention unanimously approved the SI Redefinition at the &lt;a href=&quot;https://www.youtube.com/watch?v=qA67T7FPBME&quot;&gt;26th General Conference on Weights and Measures (CGPM) in Versailles, Paris&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/SI_Illustration_Full_497x497.png&quot; alt=&quot;alt text&quot; title=&quot;SI Redefinition 2019&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;On this occasion we released &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1&quot;&gt;version 2.1&lt;/a&gt; of the API.&lt;/p&gt;
 
@@ -334,8 +333,7 @@ According to OOP organizers the session was very well received by attendees, too
         <guid isPermaLink="false">2018/cgpm26.html</guid>
         <description>
           &lt;p&gt;Witness a historic moment; join an open session of the General Conference on Weights and Measures (CGPM)&lt;br /&gt;
-considering the revision of the SI – including redefinition of four base units:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qA67T7FPBME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+considering the revision of the SI – including redefinition of four base units: &lt;a href=&quot;https://www.youtube.com/watch?v=qA67T7FPBME&quot;&gt;https://www.youtube.com/watch?v=qA67T7FPBME&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/thebipm&quot;&gt;https://www.youtube.com/thebipm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;What is the International System of Units and why do we need it?&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/srmZ2Tat3OY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
