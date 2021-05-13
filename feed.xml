@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>13 May 2021, 18:20:40</pubDate>
-    <lastBuildDate>13 May 2021, 18:20:40</lastBuildDate>
+    <pubDate>13 May 2021, 18:48:42</pubDate>
+    <lastBuildDate>13 May 2021, 18:48:42</lastBuildDate>
 
       <item>
         <title>20th Anniversary of JSR 108</title>
@@ -16,11 +16,10 @@
         <pubDate>19 Mar 2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/20yearsjavaxunits.html</guid>
         <description>
-          &lt;p&gt;&lt;img src=&quot;/img/medal-2539595_640.png&quot; alt=&quot;20th Anniversary&quot; title=&quot;Happy 20th Anniversary&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;After we just celebrated the &lt;a href=&quot;https://www.oracle.com/de/java/moved-by-java/&quot;&gt;25th birthday of Java&lt;/a&gt; a few weeks ago, today marks the 15th anniversary of the JSR 275 &lt;a href=&quot;https://jcp.org/en/jsr/results?id=3216&quot;&gt;creation review ballot&lt;/a&gt;.&lt;br /&gt;
-2005 was also the &amp;quot;World Year of Physics&amp;quot; or &amp;quot;Einstein Year&amp;quot;, celebrating Einstein&apos;s &lt;a href=&quot;https://en.wikipedia.org/wiki/Annus_Mirabilis_papers&quot;&gt;Annus Mirabilis papers&lt;/a&gt; being published 100 years earlier, the first on the 9th of June, 1905.&lt;/p&gt;
-&lt;p&gt;The JSR was rejected by the JCP EC about 5 years later, largely because the Internet of Things or connected devices did not exist then and several members that later joined the IoT bandwagon felt, there was not enough momentum. Nevertheless that JSR introduced some key aspects also used in later successors like type-safe Generics or the &amp;quot;javax.measure&amp;quot; namespace. While the JCP and its EC felt it was too early, JSR 275 and JScience 4 were all but abandoned by the community and used by many projects or commercial products despite its non-final verdict.&lt;/p&gt;
-&lt;p&gt;Since its creation, the JSR 275 API was downloaded nearly 855,000 times from Maven type repositories. In the last 12 months, the &amp;quot;javax.measure&amp;quot; APIs were downloaded more than a Million times, with Unit-API (JSR 363/385) now getting more downloads per year than 275 did in its entire lifetime, but it also still is downloaded around 250k times, a number not many Open Source projects hold, especially after 15 years.&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&quot;/img/medal-2539595_320.png&quot; alt=&quot;20th Anniversary&quot; title=&quot;Happy 20th Anniversary&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today marks the 20th anniversary of the JSR 108 &lt;a href=&quot;https://jcp.org/en/jsr/results?id=101&quot;&gt;creation review ballot&lt;/a&gt;. Approved by then JCP EC members like BEA, Borland, Compaq, Sun or WebGain. All companies that no longer exist at least not in their form they had at the time. Apple also a JCP EC member then and Oracle did not vote, although they all participate in the &lt;a href=&quot;http://www.unicode.org/&quot;&gt;Unicode&lt;/a&gt; Consortium which also added unit support but much later.&lt;/p&gt;
+&lt;p&gt;The JSR was withdrawn in 2004 and about a year later superceded by &lt;a href=&quot;https://jcp.org/en/jsr/detail?id=275&quot;&gt;JSR 275&lt;/a&gt;, but the intended RI of JSR 108 also continued under &lt;a href=&quot;https://www.unidata.ucar.edu/software/netcdf-java/&quot;&gt;NetCDF Java&lt;/a&gt; as a &lt;a href=&quot;https://www.unidata.ucar.edu/&quot;&gt;UCAR&lt;/a&gt; community project.&lt;br /&gt;
+Lately there had been &lt;a href=&quot;https://github.com/Unidata/netcdf-java/issues/256#issuecomment-780807415&quot;&gt;discussions&lt;/a&gt; about a possible implementation of JSR 363 (or hopefully 385) by a future version of NetCDF Java, so the &amp;quot;long lost relatives&amp;quot; could one day even be reunited, if that happens;-)&lt;/p&gt;
 
         </description>
       </item>
