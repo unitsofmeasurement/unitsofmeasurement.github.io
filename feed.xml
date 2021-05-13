@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>13 May 2021, 18:48:42</pubDate>
-    <lastBuildDate>13 May 2021, 18:48:42</lastBuildDate>
+    <pubDate>13 May 2021, 19:02:03</pubDate>
+    <lastBuildDate>13 May 2021, 19:02:03</lastBuildDate>
 
       <item>
         <title>20th Anniversary of JSR 108</title>
@@ -17,7 +17,7 @@
         <guid isPermaLink="false">2021/20yearsjavaxunits.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/medal-2539595_320.png&quot; alt=&quot;20th Anniversary&quot; title=&quot;Happy 20th Anniversary&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Today marks the 20th anniversary of the JSR 108 &lt;a href=&quot;https://jcp.org/en/jsr/results?id=101&quot;&gt;creation review ballot&lt;/a&gt;. Approved by then JCP EC members like BEA, Borland, Compaq, Sun or WebGain. All companies that no longer exist at least not in their form they had at the time. Apple also a JCP EC member then and Oracle did not vote, although they all participate in the &lt;a href=&quot;http://www.unicode.org/&quot;&gt;Unicode&lt;/a&gt; Consortium which also added unit support but much later.&lt;/p&gt;
+&lt;p&gt;Today marks the 20th anniversary of the JSR 108 &lt;a href=&quot;https://jcp.org/en/jsr/results?id=101&quot;&gt;creation review ballot&lt;/a&gt;. Approved by then JCP EC members like BEA, Borland, Compaq, Sun or WebGain. All companies that no longer exist at least not in their form they had at the time. Apple also a JCP EC member then and Oracle did not vote, although they all participate in the &lt;a href=&quot;http://www.unicode.org/&quot;&gt;Unicode&lt;/a&gt; Consortium which also added &lt;a href=&quot;http://site.icu-project.org/&quot;&gt;unit support for Java&lt;/a&gt; but much later.&lt;/p&gt;
 &lt;p&gt;The JSR was withdrawn in 2004 and about a year later superceded by &lt;a href=&quot;https://jcp.org/en/jsr/detail?id=275&quot;&gt;JSR 275&lt;/a&gt;, but the intended RI of JSR 108 also continued under &lt;a href=&quot;https://www.unidata.ucar.edu/software/netcdf-java/&quot;&gt;NetCDF Java&lt;/a&gt; as a &lt;a href=&quot;https://www.unidata.ucar.edu/&quot;&gt;UCAR&lt;/a&gt; community project.&lt;br /&gt;
 Lately there had been &lt;a href=&quot;https://github.com/Unidata/netcdf-java/issues/256#issuecomment-780807415&quot;&gt;discussions&lt;/a&gt; about a possible implementation of JSR 363 (or hopefully 385) by a future version of NetCDF Java, so the &amp;quot;long lost relatives&amp;quot; could one day even be reunited, if that happens;-)&lt;/p&gt;
 
