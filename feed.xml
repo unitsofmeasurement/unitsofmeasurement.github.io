@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>30 May 2021, 20:10:54</pubDate>
-    <lastBuildDate>30 May 2021, 20:10:54</lastBuildDate>
+    <pubDate>30 May 2021, 20:20:35</pubDate>
+    <lastBuildDate>30 May 2021, 20:20:35</lastBuildDate>
 
       <item>
         <title>World Metrology Day 2021</title>
@@ -25,7 +25,7 @@ The presentation looked more at domain specific use cases for JSR 385 and how to
         </description>
       </item>
       <item>
-        <title>World IoT Day</title>
+        <title>IoT Day 2021</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/iotday21.html</link>
         <pubDate>9 Apr 2021, 00:00:00</pubDate>
