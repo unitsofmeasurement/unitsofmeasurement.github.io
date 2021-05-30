@@ -6,9 +6,37 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>14 May 2021, 13:45:56</pubDate>
-    <lastBuildDate>14 May 2021, 13:45:56</lastBuildDate>
+    <pubDate>30 May 2021, 19:17:39</pubDate>
+    <lastBuildDate>30 May 2021, 19:17:39</lastBuildDate>
 
+      <item>
+        <title>World Metrology Day 2021</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/wmd21.html</link>
+        <pubDate>20 May 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/wmd21.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/banner_pic_2021.jpg&quot; alt=&quot;World Metrology Day 2021 is Measurement for Health&quot; title=&quot;World Metrology Day 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gSvVlk_uL5s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The theme for World Metrology Day 2021 is Measurement for Health. For somewhat obvious reasons.&lt;/p&gt;
+
+        </description>
+      </item>
+      <item>
+        <title>World IoT Day</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2021/iotday21.html</link>
+        <pubDate>9 Apr 2021, 00:00:00</pubDate>
+        <guid isPermaLink="false">2021/iotday21.html</guid>
+        <description>
+          &lt;p&gt;After visiting IoT Meetup Zurich several times in person, I was honored to virtually join it again and give a short version of the JSR 385 talk at &lt;a href=&quot;https://www.meetup.com/de-DE/IoT-Zurich/events/277320104/&quot;&gt;IoT Day 2021 Virtual Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was nice to see an old picture from the 2014 event:&lt;br /&gt;
+&lt;img src=&quot;https://secure.meetupstatic.com/photos/event/6/c/9/a/highres_350907802.jpeg&quot; alt=&quot;IoT Day 2014 Zurich Meetup&quot; title=&quot;IoT Day 2014 Zurich Meetup&quot; /&gt;&lt;br /&gt;
+Hope to join it again in person another year.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>20th Anniversary of JSR 108</title>
         <author>keilw</author>
