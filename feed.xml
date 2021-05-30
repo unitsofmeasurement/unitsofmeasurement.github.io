@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>30 May 2021, 20:02:12</pubDate>
-    <lastBuildDate>30 May 2021, 20:02:12</lastBuildDate>
+    <pubDate>30 May 2021, 20:10:54</pubDate>
+    <lastBuildDate>30 May 2021, 20:10:54</lastBuildDate>
 
       <item>
         <title>World Metrology Day 2021</title>
@@ -18,8 +18,9 @@
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/banner_pic_2021_s.jpg&quot; alt=&quot;World Metrology Day 2021 is Measurement for Health&quot; title=&quot;World Metrology Day 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gSvVlk_uL5s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;The theme for World Metrology Day 2021 is Measurement for Health. For somewhat obvious reasons.&lt;/p&gt;
+&lt;p&gt;As a nice coincidence, &lt;a href=&quot;https://www.majug.de/&quot;&gt;Mannheim JUG&lt;/a&gt; held a Meetup (in German) &lt;a href=&quot;https://www.meetup.com/de-DE/mannheim-java-usergroup/events/277421859&quot;&gt;javax.measure bringt verständliche Einheiten in die Software&lt;/a&gt; allowing me to share insight and experience with the audience especially during Q&amp;amp;A.&lt;br /&gt;
+The presentation looked more at domain specific use cases for JSR 385 and how to integrate Units of Measurement support in your applications from the backend or middleware to the UI frontend using UI frameworks like React or Angular.&lt;/p&gt;
 
         </description>
       </item>
