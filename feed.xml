@@ -6,9 +6,23 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>20 Aug 2022, 20:30:26</pubDate>
-    <lastBuildDate>20 Aug 2022, 20:30:26</lastBuildDate>
+    <pubDate>12 Oct 2022, 22:28:02</pubDate>
+    <lastBuildDate>12 Oct 2022, 22:28:02</lastBuildDate>
 
+      <item>
+        <title>Ada Lovelace Day 2022</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2022/ald22.html</link>
+        <pubDate>11 Oct 2022, 00:00:00</pubDate>
+        <guid isPermaLink="false">2022/ald22.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/302px-Ada_Lovelace.jpg&quot; alt=&quot;Ada Lovelace&quot; title=&quot;Ada Lovelace&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Happy Ada Lovelace Day 2022!&lt;br /&gt;
+Ada Lovelace Day (ALD) is an international celebration of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM.&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href=&quot;https://www.daysoftheyear.com/days/ada-lovelace-day/&quot;&gt;Days of the Year&lt;/a&gt;.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Units of Measurement with Groovy</title>
         <author>keilw</author>
