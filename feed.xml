@@ -6,14 +6,14 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>12 Oct 2022, 22:28:02</pubDate>
-    <lastBuildDate>12 Oct 2022, 22:28:02</lastBuildDate>
+    <pubDate>08.12.2022, 20:06:25</pubDate>
+    <lastBuildDate>08.12.2022, 20:06:25</lastBuildDate>
 
       <item>
         <title>Ada Lovelace Day 2022</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2022/ald22.html</link>
-        <pubDate>11 Oct 2022, 00:00:00</pubDate>
+        <pubDate>11.10.2022, 00:00:00</pubDate>
         <guid isPermaLink="false">2022/ald22.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/302px-Ada_Lovelace.jpg&quot; alt=&quot;Ada Lovelace&quot; title=&quot;Ada Lovelace&quot; /&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@ Ada Lovelace Day (ALD) is an international celebration of the achievements of wo
         <title>Units of Measurement with Groovy</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2022/groovy_baby.html</link>
-        <pubDate>15 Aug 2022, 00:00:00</pubDate>
+        <pubDate>15.08.2022, 00:00:00</pubDate>
         <guid isPermaLink="false">2022/groovy_baby.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/DALL-E-2022-08-marvin-307x307.png&quot; alt=&quot;Units of Measurement with Groovy&quot; title=&quot;UoM Groovy&quot; /&gt;&lt;/p&gt;
@@ -40,7 +40,7 @@ Ada Lovelace Day (ALD) is an international celebration of the achievements of wo
         <title>Stormy Monday Ukraine</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2022/stormy_monday_ukr.html</link>
-        <pubDate>22 Feb 2022, 00:00:00</pubDate>
+        <pubDate>22.02.2022, 00:00:00</pubDate>
         <guid isPermaLink="false">2022/stormy_monday_ukr.html</guid>
         <description>
           &lt;p&gt;We anticipated to call the latest Indriya version &amp;quot;Stormy Monday&amp;quot; based on a series of storms like Eunice:&lt;/p&gt;
@@ -57,7 +57,7 @@ Ada Lovelace Day (ALD) is an international celebration of the achievements of wo
         <title>2.0 Maintenance Release 1 Published</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/mr1_published.html</link>
-        <pubDate>15 Jul 2021, 00:00:00</pubDate>
+        <pubDate>15.07.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/mr1_published.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_320.png&quot; alt=&quot;JSR 385 MR1&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
@@ -73,7 +73,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>World Metrology Day 2021</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/wmd21.html</link>
-        <pubDate>20 May 2021, 00:00:00</pubDate>
+        <pubDate>20.05.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/wmd21.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/banner_pic_2021_s.jpg&quot; alt=&quot;World Metrology Day 2021 is Measurement for Health&quot; title=&quot;World Metrology Day 2021&quot; /&gt;&lt;/p&gt;
@@ -88,7 +88,7 @@ The presentation looked more at domain specific use cases for JSR 385 and how to
         <title>IoT Day 2021</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/iotday21.html</link>
-        <pubDate>9 Apr 2021, 00:00:00</pubDate>
+        <pubDate>09.04.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/iotday21.html</guid>
         <description>
           &lt;p&gt;After visiting IoT Meetup Zurich several times in person, I was honored to virtually join it again and give a short version of the JSR 385 talk at &lt;a href=&quot;https://www.meetup.com/de-DE/IoT-Zurich/events/277320104/&quot;&gt;IoT Day 2021 Virtual Meetup&lt;/a&gt;.&lt;/p&gt;
@@ -102,7 +102,7 @@ Hope to join it again in person another year.&lt;/p&gt;
         <title>20th Anniversary of JSR 108</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/20yearsjavaxunits.html</link>
-        <pubDate>19 Mar 2021, 00:00:00</pubDate>
+        <pubDate>19.03.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/20yearsjavaxunits.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/medal-2539595_320.png&quot; alt=&quot;20th Anniversary&quot; title=&quot;Happy 20th Anniversary&quot; /&gt;&lt;/p&gt;
@@ -116,7 +116,7 @@ Lately there had been &lt;a href=&quot;https://github.com/Unidata/netcdf-java/is
         <title>Hidden Figures</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/hidden_figures.html</link>
-        <pubDate>21 Feb 2021, 00:00:00</pubDate>
+        <pubDate>21.02.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/hidden_figures.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/NSF-2020-05-11-15-32-43-831_463.png&quot; alt=&quot;Hidden Figures Launch&quot; title=&quot;Hidden Figures&quot; /&gt;&lt;/p&gt;
@@ -132,7 +132,7 @@ Fixing the following issues: &lt;a href=&quot;https://github.com/unitsofmeasurem
         <title>Buffalo Soldier</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/buffalo_soldier.html</link>
-        <pubDate>12 Feb 2021, 00:00:00</pubDate>
+        <pubDate>12.02.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/buffalo_soldier.html</guid>
         <description>
           &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uMUQMSXLlHM?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -145,7 +145,7 @@ Fixing the following issues: &lt;a href=&quot;https://github.com/unitsofmeasurem
         <title>Kiss the Frog Goodbye</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/ktfg.html</link>
-        <pubDate>7 Feb 2021, 00:00:00</pubDate>
+        <pubDate>07.02.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/ktfg.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/dead-frog-48235_320.png&quot; alt=&quot;Kill the Frog&quot; title=&quot;Goodbye Frog&quot; /&gt;&lt;/p&gt;
@@ -158,7 +158,7 @@ Fixing the following issues: &lt;a href=&quot;https://github.com/unitsofmeasurem
         <title>2.0 Maintenance Release 1 Ballot</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2021/mr1.html</link>
-        <pubDate>12 Jan 2021, 00:00:00</pubDate>
+        <pubDate>12.01.2021, 00:00:00</pubDate>
         <guid isPermaLink="false">2021/mr1.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_320.png&quot; alt=&quot;JSR 385 MR1&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
@@ -176,7 +176,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>2nd Anniversary of CGPM26</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/2yearsgpm26.html</link>
-        <pubDate>16 Nov 2020, 00:00:00</pubDate>
+        <pubDate>16.11.2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/2yearsgpm26.html</guid>
         <description>
           &lt;p&gt;2 years ago we witnessed a historic moment. When the members of the Metre Convention unanimously approved the SI Redefinition at the &lt;a href=&quot;https://www.youtube.com/watch?v=qA67T7FPBME&quot;&gt;26th General Conference on Weights and Measures (CGPM) in Versailles, Paris&lt;/a&gt;.&lt;/p&gt;
@@ -189,7 +189,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>World Science Day 2020</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/wsd20.html</link>
-        <pubDate>10 Nov 2020, 00:00:00</pubDate>
+        <pubDate>10.11.2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/wsd20.html</guid>
         <description>
           &lt;p&gt;November 10 is &lt;a href=&quot;https://www.un.org/en/observances/world-science-day&quot;&gt;World Science Day&lt;/a&gt;, highlighting the significant role of science in society and the need to engage the wider public in debates on emerging scientific issues.&lt;/p&gt;
@@ -203,7 +203,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>Hanna</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/hanna.html</link>
-        <pubDate>25 Jul 2020, 00:00:00</pubDate>
+        <pubDate>25.07.2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/hanna.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/Hanna.png&quot; alt=&quot;Hanna&quot; title=&quot;HANNA&quot; /&gt;&lt;/p&gt;
@@ -218,7 +218,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>15th Anniversary of JSR 275</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/15yearsjavaxmeasure.html</link>
-        <pubDate>13 Jun 2020, 00:00:00</pubDate>
+        <pubDate>13.06.2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/15yearsjavaxmeasure.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/15th-anniversary-celebration.jpg&quot; alt=&quot;15th Anniversary&quot; title=&quot;Happy 15th Anniversary&quot; /&gt;&lt;/p&gt;
@@ -234,7 +234,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>World Metrology Day 2020</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2020/wmd20.html</link>
-        <pubDate>20 May 2020, 00:00:00</pubDate>
+        <pubDate>20.05.2020, 00:00:00</pubDate>
         <guid isPermaLink="false">2020/wmd20.html</guid>
         <description>
           &lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
@@ -249,7 +249,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>Codemotion Milan 2019 - Apollo 11 Anniversary</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/codemotionmilan19.html</link>
-        <pubDate>25 Oct 2019, 00:00:00</pubDate>
+        <pubDate>25.10.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/codemotionmilan19.html</guid>
         <description>
           &lt;p&gt;Do you know what happened on July 20 1969 at 20 UTC? Does the “That’s one small step for man, one giant leap for mankind” ring a bell…? Yes, it’s moon landing! 2019 was the 50th anniversary of this historical milestone, so Codemotion decided to celebrate it during its 2019 Conferences around Europe.&lt;/p&gt;
@@ -266,7 +266,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>CodeOne, JCON 2019, JCP Award</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/code1jcon19-jcpaward.html</link>
-        <pubDate>25 Sep 2019, 00:00:00</pubDate>
+        <pubDate>25.09.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/code1jcon19-jcpaward.html</guid>
         <description>
           &lt;p&gt;A little less than a month after the Final Release of JSR 385 was published it won another &lt;a href=&quot;https://jcp.org/en/press/news/awards/2019award_nominees&quot;&gt;JCP Award&lt;/a&gt;. A combined Spec Lead and JSR of the Year category.&lt;/p&gt;
@@ -282,7 +282,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>90-Thousand Downloads of Unit-API per month</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/unit-api_90k_per_month.html</link>
-        <pubDate>16 Sep 2019, 00:00:00</pubDate>
+        <pubDate>16.09.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/unit-api_90k_per_month.html</guid>
         <description>
           &lt;p&gt;A few weeks ago a massive download surge started with almost 100k downloads of  Unit-API (JSR 363 and 385) in just 30 days.&lt;br /&gt;
@@ -295,7 +295,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>2.0 Final Release</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/final.html</link>
-        <pubDate>29 Aug 2019, 00:00:00</pubDate>
+        <pubDate>29.08.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/final.html</guid>
         <description>
           &lt;p&gt;Judgement Day&lt;/p&gt;
@@ -314,7 +314,7 @@ TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/ta
         <title>Valhalla</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/valhalla.html</link>
-        <pubDate>19 Jul 2019, 00:00:00</pubDate>
+        <pubDate>19.07.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/valhalla.html</guid>
         <description>
           &lt;p&gt;Zeus in Valhalla&lt;/p&gt;
@@ -328,7 +328,7 @@ TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/ta
         <title>Public Review Final Approval</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/prfa.html</link>
-        <pubDate>15 Jul 2019, 00:00:00</pubDate>
+        <pubDate>15.07.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/prfa.html</guid>
         <description>
           &lt;p&gt;This week the first ever &lt;strong&gt;Public Review Final Approval Ballot&lt;/strong&gt; for JSR 385 at the Java Community Process finished. JSR 385 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6199&quot;&gt;https://jcp.org/en/jsr/results?id=6199&lt;/a&gt;.&lt;/p&gt;
@@ -342,7 +342,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <title>Utrecht JUG Adopts JSR 385</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/adopt-a-jsr-day-utrecht-jug.html</link>
-        <pubDate>1 Jun 2019, 00:00:00</pubDate>
+        <pubDate>01.06.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/adopt-a-jsr-day-utrecht-jug.html</guid>
         <description>
           &lt;p&gt;Adopt-a-JSR Day for Utrecht JUG&lt;/p&gt;
@@ -364,7 +364,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <title>World Metrology Day 2019</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/wmd19.html</link>
-        <pubDate>20 May 2019, 00:00:00</pubDate>
+        <pubDate>20.05.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/wmd19.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/SI_Illustration_Full_497x497.png&quot; alt=&quot;alt text&quot; title=&quot;World Metrology Day 2019&quot; /&gt;&lt;/p&gt;
@@ -377,7 +377,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <title>100-Thousandth Download of Unit-API exceeded</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/unit-api_100k.html</link>
-        <pubDate>13 May 2019, 00:00:00</pubDate>
+        <pubDate>13.05.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/unit-api_100k.html</guid>
         <description>
           &lt;p&gt;Just one week before World Metrology Day 2019 and shortly before the Public Review of JSR 385 the combined downloads of Unit-API (JSR 363 and 385) exceeded the 100-thousandth download within a period of 12 months:&lt;br /&gt;
@@ -390,7 +390,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <title>ACCU 2019</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/accu19.html</link>
-        <pubDate>10 Apr 2019, 00:00:00</pubDate>
+        <pubDate>10.04.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/accu19.html</guid>
         <description>
           &lt;p&gt;On the April 10th, shortly after the originally anticipated Brexit, Filip gave another JSR 385 presentation at ACCU 2019 in Bristol: &lt;a href=&quot;https://conference.accu.org/2019/sessions.html#XJSR385Learningfromthe125MillionDollarMarsClimateOrbiterMistake&quot;&gt;JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake&lt;/a&gt;&lt;/p&gt;
@@ -403,7 +403,7 @@ and the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/rel
         <title>OOP 2019</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2019/oop19.html</link>
-        <pubDate>1 Feb 2019, 00:00:00</pubDate>
+        <pubDate>01.02.2019, 00:00:00</pubDate>
         <guid isPermaLink="false">2019/oop19.html</guid>
         <description>
           &lt;p&gt;At &lt;a href=&quot;https://www.oop-konferenz.de/oop2019/startseite-englisch.html&quot;&gt;OOP 2019&lt;/a&gt; in Munich &lt;a href=&quot;https://github.com/filipvanlaenen&quot;&gt;Filip&lt;/a&gt; and &lt;a href=&quot;https://github.com/keilw&quot;&gt;Werner&lt;/a&gt; gave the audience a chance of &lt;a href=&quot;https://www.oop-konferenz.de/oop2019/startseite-englisch/program/sessiondetails/action/detail/session/do-23-4/title/jsr-385-learning-from-the-125-million-dollar-mars-climate-orbiter-mistake.html?tx_dmconferences_session%5BshowRooms%5D=0&amp;amp;cHash=ae8cd0224ec0f74399cc148402e8e90f&quot;&gt;Learning from the 125 Million Dollar Mars Climate Orbiter Mistake&lt;/a&gt; and how JSR-385 could have prevented it.&lt;/p&gt;
@@ -418,7 +418,7 @@ According to OOP organizers the session was very well received by attendees, too
         <title>26th CGPM</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/cgpm26.html</link>
-        <pubDate>16 Nov 2018, 00:00:00</pubDate>
+        <pubDate>16.11.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/cgpm26.html</guid>
         <description>
           &lt;p&gt;Witness a historic moment; join an open session of the General Conference on Weights and Measures (CGPM)&lt;br /&gt;
@@ -430,24 +430,10 @@ considering the revision of the SI – including redefinition of four base units
         </description>
       </item>
       <item>
-        <title>JavaZone 2018</title>
-        <author>keilw</author>
-        <link>http://https://unitsofmeasurement.github.io2018/javazone18.html</link>
-        <pubDate>13 Sep 2018, 00:00:00</pubDate>
-        <guid isPermaLink="false">2018/javazone18.html</guid>
-        <description>
-          &lt;p&gt;On the 2nd anniversary of the JSR 363 Final Release Filip gave a JSR 385 presentation at JavaZone 2018 in Oslo: &lt;a href=&quot;https://2018.javazone.no/program/48dbefe3-fedc-43f5-8b8e-e9f8ac92f043&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For everyone who did not attend it here&apos;s the Vimeo recording:&lt;/p&gt;
-&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/289668490?color=ff9933&amp;portrait=0&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/289668490&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter : Filip van Laenen&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/javazone&quot;&gt;JavaZone&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-        </description>
-      </item>
-      <item>
         <title>Early Draft of JSR 385</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/edr.html</link>
-        <pubDate>13 Sep 2018, 00:00:00</pubDate>
+        <pubDate>13.09.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/edr.html</guid>
         <description>
           &lt;p&gt;Today exactly 2 years after JSR 363 went Final, the Java Community Process published the Early Draft Release of JSR 385 for Review:&lt;br /&gt;
@@ -462,10 +448,24 @@ And for the TCK:&lt;br /&gt;
         </description>
       </item>
       <item>
+        <title>JavaZone 2018</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2018/javazone18.html</link>
+        <pubDate>13.09.2018, 00:00:00</pubDate>
+        <guid isPermaLink="false">2018/javazone18.html</guid>
+        <description>
+          &lt;p&gt;On the 2nd anniversary of the JSR 363 Final Release Filip gave a JSR 385 presentation at JavaZone 2018 in Oslo: &lt;a href=&quot;https://2018.javazone.no/program/48dbefe3-fedc-43f5-8b8e-e9f8ac92f043&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For everyone who did not attend it here&apos;s the Vimeo recording:&lt;/p&gt;
+&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/289668490?color=ff9933&amp;portrait=0&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/289668490&quot;&gt;How JSR-385 Could Have Saved the Mars Climate Orbiter : Filip van Laenen&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/javazone&quot;&gt;JavaZone&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+        </description>
+      </item>
+      <item>
         <title>World Metrology Day 2018</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/wmd18.html</link>
-        <pubDate>20 May 2018, 00:00:00</pubDate>
+        <pubDate>20.05.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/wmd18.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/wmd_2018_s.jpg&quot; alt=&quot;alt text&quot; title=&quot;World Metrology Day 2018&quot; /&gt;&lt;/p&gt;
@@ -478,7 +478,7 @@ And for the TCK:&lt;br /&gt;
         <title>Ready for Java 10</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/java10.html</link>
-        <pubDate>28 Apr 2018, 00:00:00</pubDate>
+        <pubDate>28.04.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/java10.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;http://technikes.com/wp-content/uploads/2017/09/java-10_1.png&quot; alt=&quot;alt text&quot; title=&quot;Ready for Java 10?&quot; /&gt;&lt;/p&gt;
@@ -492,7 +492,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
         <title>New TLDs</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/new_tlds.html</link>
-        <pubDate>18 Mar 2018, 00:00:00</pubDate>
+        <pubDate>18.03.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/new_tlds.html</guid>
         <description>
           &lt;p&gt;Following a recent vote &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/issues/35&quot;&gt;Indriya #35&lt;/a&gt; we decided to switch from virtual TLDs &amp;quot;.tec&amp;quot;, the only option back in 2014 to actual new &amp;quot;tech&amp;quot; TLDs that became usable after 2015. A small difference, but with domains like &amp;quot;uom.tech&amp;quot; or &amp;quot;units.tech&amp;quot; we can also use them for web pages and email addresses.&lt;/p&gt;
@@ -505,7 +505,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
         <title>JSR 385 Accepted</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2018/accepted20.html</link>
-        <pubDate>8 Jan 2018, 00:00:00</pubDate>
+        <pubDate>08.01.2018, 00:00:00</pubDate>
         <guid isPermaLink="false">2018/accepted20.html</guid>
         <description>
           &lt;p&gt;The JCP Executive Committee has accepted the Creation of JSR 385, Units of Measurement API 2.0&lt;/p&gt;
@@ -517,7 +517,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
         <title>Eclipse UOMo 0.7</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/uomo07.html</link>
-        <pubDate>31 Dec 2017, 00:00:00</pubDate>
+        <pubDate>31.12.2017, 00:00:00</pubDate>
         <guid isPermaLink="false">2017/uomo07.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/uomo.png&quot; alt=&quot;alt text&quot; title=&quot;Eclipse UOMo&quot; /&gt;&lt;/p&gt;
@@ -530,7 +530,7 @@ While the API and Indriya remain fully backward compatible with Java SE 8 and at
         <title>Apache SIS 0.8</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/sis08.html</link>
-        <pubDate>24 Nov 2017, 00:00:00</pubDate>
+        <pubDate>24.11.2017, 00:00:00</pubDate>
         <guid isPermaLink="false">2017/sis08.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;http://sis.apache.org/img/logo.png&quot; alt=&quot;alt text&quot; title=&quot;Apache SIS&quot; /&gt;&lt;/p&gt;
@@ -571,7 +571,7 @@ o &lt;strong&gt;JSR-363&lt;/strong&gt; with parsing, formating and unit conversi
         <title>A Taste of Indriya</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/taste_of_indriya.html</link>
-        <pubDate>15 Aug 2017, 00:00:00</pubDate>
+        <pubDate>15.08.2017, 00:00:00</pubDate>
         <guid isPermaLink="false">2017/taste_of_indriya.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/N_Indriya_Small.jpg&quot; alt=&quot;alt text&quot; title=&quot;Indriya&quot; /&gt;&lt;/p&gt;
@@ -584,7 +584,7 @@ o &lt;strong&gt;JSR-363&lt;/strong&gt; with parsing, formating and unit conversi
         <title>DevoXX US 2017</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2017/devoxxus17.html</link>
-        <pubDate>23 Mar 2017, 00:00:00</pubDate>
+        <pubDate>23.03.2017, 00:00:00</pubDate>
         <guid isPermaLink="false">2017/devoxxus17.html</guid>
         <description>
           &lt;p&gt;On the first ever DevoXX US in San Jose, California, Leo and Otavio presented JSR 363.&lt;/p&gt;
@@ -598,7 +598,7 @@ Although at Geecon and not DevoXX Poland, Werner also presented Standards for Ja
         <title>100-Thousandth Download of JSR 275 exceeded</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/jsr275-100k.html</link>
-        <pubDate>13 Dec 2016, 00:00:00</pubDate>
+        <pubDate>13.12.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/jsr275-100k.html</guid>
         <description>
           &lt;p&gt;About two months after JSR 363 had gone &lt;a href=&quot;2016/final.html&quot;&gt;Final&lt;/a&gt; its predecessor JSR 275 exceeded the 100-thousandth download within a period of less than 12 months:&lt;br /&gt;
@@ -611,7 +611,7 @@ Although at Geecon and not DevoXX Poland, Werner also presented Standards for Ja
         <title>JavaOne 2016</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/javaone16-f2f.html</link>
-        <pubDate>20 Sep 2016, 00:00:00</pubDate>
+        <pubDate>20.09.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/javaone16-f2f.html</guid>
         <description>
           &lt;p&gt;After meeting for a JCP EC F2F / EG F2F for the last time (because the EG officially no longer exists after JSR 363 went final), Leonardo, Otavio and Werner presented JSR 363 during a JavaOne BOF (BOF5981) on Sep 19th, right before the annual JCP Party.&lt;/p&gt;
@@ -628,7 +628,7 @@ Following the JCP Award Otavio won as Outstanding Adopt-a-JSR Participant 2014 a
         <title>Final Release</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/final.html</link>
-        <pubDate>13 Sep 2016, 00:00:00</pubDate>
+        <pubDate>13.09.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/final.html</guid>
         <description>
           &lt;p&gt;Last week the Final Approval Ballot for JSR 363 at the Java Community Process finished. JSR 363 was approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=5877&quot;&gt;https://jcp.org/en/jsr/results?id=5877&lt;/a&gt;.&lt;br /&gt;
@@ -644,7 +644,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>JavaOne 2016 Announcement</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/javaone16-announce.html</link>
-        <pubDate>28 Aug 2016, 00:00:00</pubDate>
+        <pubDate>28.08.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/javaone16-announce.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;https://www.oracle.com/us/assets/j1-250x250-im-speaking-3089473.jpg&quot; alt=&quot;alt text&quot; title=&quot;I&apos;m speaking at JavaOne 2016&quot; /&gt;&lt;/p&gt;
@@ -657,7 +657,7 @@ and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck
         <title>Proposed Final Draft</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/pfd.html</link>
-        <pubDate>19 Jul 2016, 00:00:00</pubDate>
+        <pubDate>19.07.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/pfd.html</guid>
         <description>
           &lt;p&gt;Today, the Java Community Process posted the Proposed Final Draft of JSR 363:&lt;br /&gt;
@@ -676,7 +676,7 @@ and for the TCK:&lt;br /&gt;
         <title>EG F2F during JCP EC F2F in Rio de Janeiro</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2016/jan16-f2f.html</link>
-        <pubDate>26 Jan 2016, 00:00:00</pubDate>
+        <pubDate>26.01.2016, 00:00:00</pubDate>
         <guid isPermaLink="false">2016/jan16-f2f.html</guid>
         <description>
           &lt;p&gt;Leonardo, Werner and Otavio met for an EG F2F in Rio de Janeiro. As the &lt;a href=&quot;../2015/pr.html&quot;&gt;Public Review&lt;/a&gt; Ballot of JSR 363 was just about to conclude, Leonardo and Werner gave a Spec Lead presentation to the EC answering questions of EC members prior to their vote.&lt;/p&gt;
@@ -694,7 +694,7 @@ Group Picture at the JCP EC F2F&lt;/p&gt;
         <title>Public Review</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/pr.html</link>
-        <pubDate>18 Nov 2015, 00:00:00</pubDate>
+        <pubDate>18.11.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/pr.html</guid>
         <description>
           &lt;p&gt;Today, the Java Community Process posted     the Public Review of JSR 363:&lt;br /&gt;
@@ -713,7 +713,7 @@ and for the TCK:&lt;br /&gt;
         <title>DevoXX BE 2015</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/devoxxbe15.html</link>
-        <pubDate>15 Nov 2015, 00:00:00</pubDate>
+        <pubDate>15.11.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/devoxxbe15.html</guid>
         <description>
           &lt;p&gt;On the last day of DevoXX BE 2015 in Antwerp, after many had already seen cutting edge QS and Embedded technologies in &lt;a href=&quot;http://www.devoxx.be/2015/10/james-bond/&quot;&gt;James Bond Spectre&lt;/a&gt; and a literal &lt;a href=&quot;http://cfp.devoxx.be/2015/talk/EDW-7208/Providing_Eyes,_Ears,_and_a_Mouth_to_Your_IoT_Project&quot;&gt;hands-on IoT session&lt;/a&gt; by Yara and Vinicius, Werner presented &lt;a href=&quot;http://cfp.devoxx.be/2015/talk/PPU-4757/The_First_IoT_JSR:_Units_of_Measurement_&quot;&gt;The First IoT JSR: Units of Measurement&lt;/a&gt;. Unfortunately, JSR 363 EG members and co-speakers Mohamed and Otavio could not make it due to travel budget constraints.&lt;br /&gt;
@@ -727,7 +727,7 @@ While two Cloud/Big Data sessions by both Google and Microsoft as well as a &amp
         <title>JavaOne 2015, JCP Award</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/javaone15-jcpaward.html</link>
-        <pubDate>28 Oct 2015, 00:00:00</pubDate>
+        <pubDate>28.10.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/javaone15-jcpaward.html</guid>
         <description>
           &lt;p&gt;After some EG members met at the end of the previous week for the JCP EC F2F Otavio, Leonardo and Werner demonstrated JSR 363 in two &lt;a href=&quot;https://blogs.oracle.com/javaone/entry/help_build_the_future_at&quot;&gt;Hackergarten sessions&lt;/a&gt; at JavaOne 2015. Running on Java SE 8 on Intel Edison as well as Java ME 8 Embedded on a Freescale board.&lt;/p&gt;
@@ -744,7 +744,7 @@ another JCP Award this year.&lt;/p&gt;
         <title>Data Quality on Mars - Apache BigData Europe 2015</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/apache-on-mars.html</link>
-        <pubDate>10 Oct 2015, 00:00:00</pubDate>
+        <pubDate>10.10.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/apache-on-mars.html</guid>
         <description>
           &lt;p&gt;Just a day after NASA had unveiled new images and details about Mars, I presented Data Quality and Unit standards from SensorML to ISO 80000 and how JSR 363 can support them at Apache Big Data Europe 2015 in Budapest:&lt;br /&gt;
@@ -760,7 +760,7 @@ Meeting Martin at Apache BigData Europe.&lt;/p&gt;
         <title>Profiling JSR 363</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/profilage.html</link>
-        <pubDate>15 Sep 2015, 00:00:00</pubDate>
+        <pubDate>15.09.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/profilage.html</guid>
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/tf1_media_ingest88463_image_0_600x800.jpg&quot; alt=&quot;Profilage&quot; title=&quot;Profilage S05&quot; /&gt;&lt;/p&gt;
@@ -780,7 +780,7 @@ Meeting Martin at Apache BigData Europe.&lt;/p&gt;
         <title>R.I.P., hitchBOT</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/rip-hitchbot.html</link>
-        <pubDate>2 Aug 2015, 00:00:00</pubDate>
+        <pubDate>02.08.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/rip-hitchbot.html</guid>
         <description>
           &lt;p&gt;Remember when I met &lt;a href=&quot;http://socialmediaweek.org/hamburg/events/much-ai-social-robot-need-insights-hitchbot/&quot;&gt;hitchBOT&lt;/a&gt; at Social Media Week HH 2015 a few months ago?&lt;br /&gt;
@@ -796,7 +796,7 @@ but decided to perform an &amp;quot;autopsy&amp;quot;, leaving it scattered to p
         <title>Fantastic Four vs The League of Extraordinary Developers</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/fanta4.html</link>
-        <pubDate>15 Mar 2015, 00:00:00</pubDate>
+        <pubDate>15.03.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/fanta4.html</guid>
         <description>
           &lt;p&gt;Right after &lt;a href=&quot;http://www.developer-week.de/&quot;&gt;Developer Week 2015&lt;/a&gt;, this year with more Java than ever,&lt;br /&gt;
@@ -813,7 +813,7 @@ Local Hero &amp;quot;Duck Asteroid&amp;quot; Chris Senior, Mr. &amp;quot;Flaming
         <title>Social Media Week 2015</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/smw15.html</link>
-        <pubDate>28 Feb 2015, 00:00:00</pubDate>
+        <pubDate>28.02.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/smw15.html</guid>
         <description>
           &lt;p&gt;For the 2nd time I was invited to speak at Social Media Week Copenhagen. This time with some live demos it evolved around Quantified Self and how you can share your workouts and other information on social channels.&lt;a href=&quot;http://socialmediaweek.org/copenhagen/events/?id=194198&quot;&gt;Quantified Self and the Social Internet of Things&lt;/a&gt;&lt;/p&gt;
@@ -832,7 +832,7 @@ A wide range of sensors and a brain controlled by Android (so it&apos;s also at 
         <title>EG F2F during JCP EC F2F in San Jose</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2015/jan15-f2f.html</link>
-        <pubDate>14 Jan 2015, 00:00:00</pubDate>
+        <pubDate>14.01.2015, 00:00:00</pubDate>
         <guid isPermaLink="false">2015/jan15-f2f.html</guid>
         <description>
           &lt;p&gt;Leonardo and Werner as well as Bruno representing SouJava (with members especially Otavio involved as EG Member via Adopt-a-JSR) met for the first EG F2F in 2015, pretty much one year after the &amp;quot;Kick-off&amp;quot; presentation at Oracle last January. &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/ec-public/materials/2015-01-1314/January-2015-Public-Minutes.html&quot;&gt;January 2015 JCP EC F2F&lt;/a&gt; at Freescale in San Jose, California.&lt;/p&gt;
@@ -846,7 +846,7 @@ Group Picture at the JCP EC F2F&lt;/p&gt;
         <title>Early Draft</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/edr.html</link>
-        <pubDate>29 Dec 2014, 00:00:00</pubDate>
+        <pubDate>29.12.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/edr.html</guid>
         <description>
           &lt;p&gt;Today, the Java Community Process published the Early Draft Release of JSR 363 for Review:&lt;br /&gt;
@@ -862,7 +862,7 @@ and for the RI:&lt;br /&gt;
         <title>JavaOne 2014</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/javaone14-f2f.html</link>
-        <pubDate>2 Oct 2014, 00:00:00</pubDate>
+        <pubDate>02.10.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/javaone14-f2f.html</guid>
         <description>
           &lt;p&gt;Leonardo, Otavio (who received a JCP Award for his Adopt-a-JSR involvement) and Werner met for an  EG F2F during JavaOne 2014.&lt;/p&gt;
@@ -875,7 +875,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
         <title>JavaZone 2014</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/javazone14.html</link>
-        <pubDate>10 Sep 2014, 00:00:00</pubDate>
+        <pubDate>10.09.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/javazone14.html</guid>
         <description>
           &lt;p&gt;A few days before Pharell Williams rocked the Oslo Spektrum Werner gave a JSR 363 presentation at a Game of Thrones themed JavaZone 2014 in Oslo:&lt;/p&gt;
@@ -890,7 +890,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
         <title>Eclipse DemoCamp and Maker Faire Trondheim 2014</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/edct_tmf14.html</link>
-        <pubDate>28 Aug 2014, 00:00:00</pubDate>
+        <pubDate>28.08.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/edct_tmf14.html</guid>
         <description>
           &lt;p&gt;After a great Eclipse DemoCamp Trondheim last year, I was invited to talk about &lt;a href=&quot;http://www.eclipse.org/uomo/&quot;&gt;UOMo&lt;/a&gt;, JSR 363 and the Quantified Self at &lt;a href=&quot;http://www.meetup.com/Trondheim-Eclipse-User-Group/events/170849682/&quot;&gt;Eclipse Luna DemoCamp Trondheim&lt;/a&gt;&lt;/p&gt;
@@ -906,7 +906,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
         <title>EclipseCon France</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/ecf14.html</link>
-        <pubDate>17 Jun 2014, 00:00:00</pubDate>
+        <pubDate>17.06.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/ecf14.html</guid>
         <description>
           &lt;p&gt;&lt;a href=&quot;http://www.eclipsecon.org/france2014/&quot;&gt;EclipseCon France 2014&lt;/a&gt; in Toulouse was an opportunity to present JSR 363 and what it means to the &lt;a href=&quot;http://www.eclipse.org/uomo/&quot;&gt;UOMo project&lt;/a&gt; at the Science WG &lt;a href=&quot;http://www.eclipsecon.org/france2014/unconference&quot;&gt;Unconference Meeting&lt;/a&gt;&lt;/p&gt;
@@ -923,7 +923,7 @@ Werner, Otavio and Leonardo (left to right) after Leonardo&apos;s Java Embedded 
         <title>First EG F2F during JCP EC F2F in London</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/may14-f2f.html</link>
-        <pubDate>14 May 2014, 00:00:00</pubDate>
+        <pubDate>14.05.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/may14-f2f.html</guid>
         <description>
           &lt;p&gt;Leonardo, Mohamed and Werner as well as Bruno representing SouJava (where members started to get involved via Adopt-a-JSR) met for a first EG F2F in the course of the &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/ec-public/materials/2014-05-1314/May-2014-Public-Minutes.html&quot;&gt;May JCP EC F2F&lt;/a&gt; at Goldmann Sachs in London.&lt;/p&gt;
@@ -938,7 +938,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
         <title>World IoT Day</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/iotday.html</link>
-        <pubDate>9 Apr 2014, 00:00:00</pubDate>
+        <pubDate>09.04.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/iotday.html</guid>
         <description>
           &lt;p&gt;After JSR 363 passed the Creation Review, the first public presentation took part on World IoT Day 2014. I visited &lt;a href=&quot;http://www.meetup.com/IoT-Zurich/events/166408222/&quot;&gt;IoT MeetUp Zurich&lt;/a&gt;.&lt;/p&gt;
@@ -950,7 +950,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
         <title>JSR 363 Accepted</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/accepted.html</link>
-        <pubDate>7 Apr 2014, 00:00:00</pubDate>
+        <pubDate>07.04.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/accepted.html</guid>
         <description>
           &lt;p&gt;The JCP Executive Committee has accepted the Creation of JSR 363.&lt;/p&gt;
@@ -962,7 +962,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
         <title>NightHacking at JUGS</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/nh_jugs.html</link>
-        <pubDate>28 Mar 2014, 00:00:00</pubDate>
+        <pubDate>28.03.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/nh_jugs.html</guid>
         <description>
           &lt;p&gt;A &lt;a href=&quot;http://www.nighthacking.com&quot;&gt;NightHacking&lt;/a&gt; session with Stephen Chin later that week allowed a more detailed overview of JSR 363. Duke got so excited, he even temporarily lost his head;-)&lt;/p&gt;
@@ -974,7 +974,7 @@ The restaurant even had a scale for us, using British Imperial units;-D&lt;/p&gt
         <title>JavaLand</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/nh_javaland.html</link>
-        <pubDate>26 Mar 2014, 00:00:00</pubDate>
+        <pubDate>26.03.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/nh_javaland.html</guid>
         <description>
           &lt;p&gt;A &lt;a href=&quot;http://www.nighthacking.com&quot;&gt;NightHacking&lt;/a&gt; interview at &lt;a href=&quot;http://www.javaland.eu/&quot;&gt;JavaLand&lt;/a&gt;&lt;br /&gt;
@@ -987,7 +987,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
         <title>Creation Review</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/cr.html</link>
-        <pubDate>11 Mar 2014, 00:00:00</pubDate>
+        <pubDate>11.03.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/cr.html</guid>
         <description>
           &lt;p&gt;The Creation Review of JSR 363 by the JCP Executive Committee and Java Community started.&lt;/p&gt;
@@ -999,7 +999,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
         <title>JCP EC F2F at Oracle HQ</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2014/second-post.html</link>
-        <pubDate>24 Jan 2014, 00:00:00</pubDate>
+        <pubDate>24.01.2014, 00:00:00</pubDate>
         <guid isPermaLink="false">2014/second-post.html</guid>
         <description>
           &lt;p&gt;Werner Keil and Leonardo Lima presented the idea of a Units of Measurement JSR to the JCP Executive Committee in Redwood Shores, CA.&lt;/p&gt;
@@ -1011,7 +1011,7 @@ conference brought the first public announcement of JSR 363.&lt;/p&gt;
         <title>Pecha Kucha Night</title>
         <author>keilw</author>
         <link>http://https://unitsofmeasurement.github.io2013/pkn13.html</link>
-        <pubDate>18 Dec 2013, 00:00:00</pubDate>
+        <pubDate>18.12.2013, 00:00:00</pubDate>
         <guid isPermaLink="false">2013/pkn13.html</guid>
         <description>
           &lt;p&gt;Units of Measurement presented at Pecha Kucha Night Frankfurt (DE).&lt;/p&gt;
