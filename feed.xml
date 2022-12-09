@@ -6,9 +6,60 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>08.12.2022, 20:06:25</pubDate>
-    <lastBuildDate>08.12.2022, 20:06:25</lastBuildDate>
+    <pubDate>09.12.2022, 18:10:48</pubDate>
+    <lastBuildDate>09.12.2022, 18:10:48</lastBuildDate>
 
+      <item>
+        <title>27th CGPM</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2022/cgpm27.html</link>
+        <pubDate>18.11.2022, 00:00:00</pubDate>
+        <guid isPermaLink="false">2022/cgpm27.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;https://www.bipm.org/documents/20126/27072194/Logo+CGPMpt.jpg/2ab1f2ce-96be-5783-b51b-f134d07e06af?t=1590504481185&quot; alt=&quot;CGPM&quot; title=&quot;General Conference on Weights and Measures&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The General Conference on Weights and Measures (CGPM), at its 27th meeting,&lt;/p&gt;
+&lt;p&gt;recalling that decisions were made at previous meetings when it was considered timely to extend the range of SI prefixes including Resolution 12 (paragraph 3) adopted by the CGPM at its 11th meeting (1960), Resolution 8 adopted by the CGPM at its 12th meeting (1964), Resolution 10 adopted by the CGPM at its 15th meeting (1975), and Resolution 4 adopted by the CGPM at its 19th meeting (1991), decided to add to the list of SI prefixes to be used for multiples and submultiples of units the following prefixes:&lt;/p&gt;
+&lt;table width=&quot;60%&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th width=&quot;50%&quot;&gt;Multiplying factor&lt;/th&gt;
+			&lt;th width=&quot;30%&quot;&gt;Name&lt;/th&gt;
+			&lt;th&gt;Symbol&lt;/th&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;10&lt;sup&gt;27&lt;/sup&gt;&lt;/td&gt;
+			&lt;td class=&quot;title-third&quot;&gt;ronna&lt;/td&gt;
+			&lt;td&gt;
+			&lt;h4&gt;R&lt;/h4&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;10&lt;sup&gt;–27&lt;/sup&gt;&lt;/td&gt;
+			&lt;td class=&quot;title-third&quot;&gt;ronto&lt;/td&gt;
+			&lt;td&gt;
+			&lt;h4&gt;r&lt;/h4&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;10&lt;sup&gt;30&lt;/sup&gt;&lt;/td&gt;
+			&lt;td class=&quot;title-third&quot;&gt;quetta&lt;/td&gt;
+			&lt;td&gt;
+			&lt;h4&gt;Q&lt;/h4&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;10&lt;sup&gt;–30&lt;/sup&gt;&lt;/td&gt;
+			&lt;td class=&quot;title-third&quot;&gt;quecto&lt;/td&gt;
+			&lt;td&gt;
+			&lt;h4&gt;q&lt;/h4&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;With an upcoming &lt;a href=&quot;https://github.com/orgs/unitsofmeasurement/projects/7&quot;&gt;Maintenance Release 2 of JSR 385&lt;/a&gt; we will add those new prefixes to &lt;code&gt;MetricPrefix&lt;/code&gt; in the API.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Ada Lovelace Day 2022</title>
         <author>keilw</author>
