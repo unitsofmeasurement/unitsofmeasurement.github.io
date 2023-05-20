@@ -6,9 +6,25 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>15 Mar 2023, 11:32:49</pubDate>
-    <lastBuildDate>15 Mar 2023, 11:32:49</lastBuildDate>
+    <pubDate>20 May 2023, 23:21:45</pubDate>
+    <lastBuildDate>20 May 2023, 23:21:45</lastBuildDate>
 
+      <item>
+        <title>World Metrology Day 2023</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2023/wmd23.html</link>
+        <pubDate>20 May 2023, 00:00:00</pubDate>
+        <guid isPermaLink="false">2023/wmd23.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/wmd_homepage_poster_2023_handy.jpg&quot; alt=&quot;World Metrology Day 2023 is Measurement for Health&quot; title=&quot;World Metrology Day 2023&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
+&lt;p&gt;The theme for World Metrology Day 2023 is Measurements supporting the global food system. This theme was chosen because of the increasing challenges of climate change, and global distribution of food in a world whose population reached 8 billion at the end of 2022.&lt;/p&gt;
+&lt;p&gt;Today the first artifacts of JSR 385 MR 2 were also released:&lt;br /&gt;
+* &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-parent/releases/tag/2.2&quot;&gt;uom-parent 2.2&lt;/a&gt;&lt;br /&gt;
+* &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.2&quot;&gt;unit-api 2.2&lt;/a&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Pi Day 2023</title>
         <author>keilw</author>
