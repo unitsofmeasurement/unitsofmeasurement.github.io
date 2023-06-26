@@ -6,9 +6,26 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>20 May 2023, 23:22:36</pubDate>
-    <lastBuildDate>20 May 2023, 23:22:36</lastBuildDate>
+    <pubDate>26 Jun 2023, 21:36:49</pubDate>
+    <lastBuildDate>26 Jun 2023, 21:36:49</lastBuildDate>
 
+      <item>
+        <title>World Refrigeration Day 2023</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2023/wrefd23.html</link>
+        <pubDate>26 Jun 2023, 00:00:00</pubDate>
+        <guid isPermaLink="false">2023/wrefd23.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;https://worldrefrigerationday.org/wp-content/uploads/2019/06/WRD-Logo-web.jpg&quot; alt=&quot;World Refrigeration Day&quot; title=&quot;World Refrigeration Day&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Happy birthday, Lord Kelvin. It’s World Refrigeration Day.&lt;br /&gt;
+Lord Kelvin was born 199 years ago: June 26th. 26 June is also World Refrigeration Day.&lt;/p&gt;
+&lt;p&gt;All info here: &lt;a href=&quot;https://worldrefrigerationday.org/&quot;&gt;https://worldrefrigerationday.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Today further artifacts of JSR 385 MR 2 were also released:&lt;br /&gt;
+* &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-lib/releases/tag/2.2&quot;&gt;uom-lib 2.2&lt;/a&gt;&lt;br /&gt;
+* &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.2&quot;&gt;indriya 2.2&lt;/a&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>World Metrology Day 2023</title>
         <author>keilw</author>
