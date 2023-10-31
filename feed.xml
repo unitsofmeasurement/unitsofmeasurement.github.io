@@ -6,9 +6,24 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>26 Jun 2023, 21:36:49</pubDate>
-    <lastBuildDate>26 Jun 2023, 21:36:49</lastBuildDate>
+    <pubDate>31 Oct 2023, 17:20:33</pubDate>
+    <lastBuildDate>31 Oct 2023, 17:20:33</lastBuildDate>
 
+      <item>
+        <title>Halloween 2023</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2023/halloween23.html</link>
+        <pubDate>31 Oct 2023, 00:00:00</pubDate>
+        <guid isPermaLink="false">2023/halloween23.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/pexels-skitterphoto-3738-640.jpg&quot; alt=&quot;Halloween&quot; title=&quot;Halloween 2023&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Happy Halloween!&lt;/p&gt;
+&lt;p&gt;Today is also &lt;a href=&quot;https://en.wikipedia.org/wiki/Reformation_Day&quot;&gt;Reformation Day&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And the the final artifact of JSR 385 MR 2 was released, too:&lt;br /&gt;
+* &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2&quot;&gt;unit-tck 2.2&lt;/a&gt;&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>World Refrigeration Day 2023</title>
         <author>keilw</author>
@@ -18,7 +33,7 @@
         <description>
           &lt;p&gt;&lt;img src=&quot;https://worldrefrigerationday.org/wp-content/uploads/2019/06/WRD-Logo-web.jpg&quot; alt=&quot;World Refrigeration Day&quot; title=&quot;World Refrigeration Day&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Happy birthday, Lord Kelvin. It’s World Refrigeration Day.&lt;br /&gt;
-Lord Kelvin was born 199 years ago: June 26th. 26 June is also World Refrigeration Day.&lt;/p&gt;
+Lord Kelvin was born 199 years ago: June 26th, 1824. 26 June is also World Refrigeration Day.&lt;/p&gt;
 &lt;p&gt;All info here: &lt;a href=&quot;https://worldrefrigerationday.org/&quot;&gt;https://worldrefrigerationday.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Today further artifacts of JSR 385 MR 2 were also released:&lt;br /&gt;
 * &lt;a href=&quot;https://github.com/unitsofmeasurement/uom-lib/releases/tag/2.2&quot;&gt;uom-lib 2.2&lt;/a&gt;&lt;br /&gt;
