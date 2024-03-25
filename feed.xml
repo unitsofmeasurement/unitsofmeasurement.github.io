@@ -6,9 +6,25 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>11 Jan 2024, 18:54:02</pubDate>
-    <lastBuildDate>11 Jan 2024, 18:54:02</lastBuildDate>
+    <pubDate>25 Mar 2024, 21:25:12</pubDate>
+    <lastBuildDate>25 Mar 2024, 21:25:12</lastBuildDate>
 
+      <item>
+        <title>JSR 385 Maintenance Release 2</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2024/mr2.html</link>
+        <pubDate>11 Mar 2024, 00:00:00</pubDate>
+        <guid isPermaLink="false">2024/mr2.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_320.png&quot; alt=&quot;JSR 385 MR2&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today Maintenance Release 2 of JSR 385 was published by the Java Community Process: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/mrel/jsr385/index2.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/mrel/jsr385/index2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.2&lt;/a&gt;&lt;br /&gt;
+for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.2&lt;/a&gt;&lt;br /&gt;
+and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks everyone who helped with this release.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>JSR 385 Maintenance Review Ballot 2</title>
         <author>keilw</author>
@@ -16,13 +32,9 @@
         <pubDate>8 Jan 2024, 00:00:00</pubDate>
         <guid isPermaLink="false">2024/mr2_ballot.html</guid>
         <description>
-          &lt;p&gt;&lt;img src=&quot;/img/maintenance-1151312_320.png&quot; alt=&quot;JSR 385 MR2&quot; title=&quot;Maintenance&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Today Maintenance Review Ballot for Maintenance Release 2 of JSR 385 at the Java Community Process finished. MR2 of JSR 385 was unanimously approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6364&quot;&gt;https://jcp.org/en/jsr/results?id=6364&lt;/a&gt;.&lt;br /&gt;
-Maintenance Review 2 page: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index2.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index2.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Corresponding GitHub release tags for API are: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/unit-api/releases/tag/2.2&lt;/a&gt;&lt;br /&gt;
-for the RI: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.2&lt;/a&gt;&lt;br /&gt;
-and for the TCK: &lt;a href=&quot;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2&quot;&gt;https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thanks everyone who helped with this release.&lt;/p&gt;
+          &lt;p&gt;Today Maintenance Review Ballot for Maintenance Release 2 of JSR 385 at the Java Community Process finished. MR2 of JSR 385 was unanimously approved by the JCP Executive Committee: &lt;a href=&quot;https://jcp.org/en/jsr/results?id=6364&quot;&gt;https://jcp.org/en/jsr/results?id=6364&lt;/a&gt;.&lt;br /&gt;
+Maintenance Review 2 page: &lt;a href=&quot;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index2.html&quot;&gt;https://jcp.org/aboutJava/communityprocess/maintenance/jsr385/index2.html&lt;/a&gt;&lt;br /&gt;
+GitHub project to track the MR: &lt;a href=&quot;https://github.com/orgs/unitsofmeasurement/projects/7&quot;&gt;https://github.com/orgs/unitsofmeasurement/projects/7&lt;/a&gt;&lt;/p&gt;
 
         </description>
       </item>
@@ -179,7 +191,7 @@ Ada Lovelace Day (ALD) is an international celebration of the achievements of wo
 &lt;img src=&quot;/img/1618138263Ukraine-heart-shape-flag-300.png&quot; alt=&quot;Free Ukraine&quot; title=&quot;Ukraine patriotic flag symbol&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Also remembering when Teo presented the JSR in Kiev 2019:&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kmE6J8NTQxg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;The corresponding GitHub release tag for the API is: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The corresponding GitHub release tag for the RI is: &lt;a href=&quot;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3&quot;&gt;https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3&lt;/a&gt;&lt;/p&gt;
 
         </description>
       </item>
