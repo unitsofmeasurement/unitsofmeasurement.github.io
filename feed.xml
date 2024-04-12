@@ -6,9 +6,23 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>25 Mar 2024, 21:25:12</pubDate>
-    <lastBuildDate>25 Mar 2024, 21:25:12</lastBuildDate>
+    <pubDate>12 Apr 2024, 14:59:25</pubDate>
+    <lastBuildDate>12 Apr 2024, 14:59:25</lastBuildDate>
 
+      <item>
+        <title>10 Years JSR 363</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2024/10years_jsr363.html</link>
+        <pubDate>7 Apr 2024, 00:00:00</pubDate>
+        <guid isPermaLink="false">2024/10years_jsr363.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/253xTen_Years.png&quot; alt=&quot;10 Years JSR 363&quot; title=&quot;10 Years&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today marks the 10th anniversary of the &lt;a href=&quot;https://jcp.org/en/jsr/results?id=5666&quot;&gt;JSR 363 approval&lt;/a&gt;.&lt;br /&gt;
+Only 2 days before &lt;a href=&quot;https://iotday.org/events/2024/&quot;&gt;IoT Day 2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations and thank you everyone who helped over all these years with JSR 363 and 385.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>JSR 385 Maintenance Release 2</title>
         <author>keilw</author>
