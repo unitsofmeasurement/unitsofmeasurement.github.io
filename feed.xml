@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>12 Apr 2024, 15:01:39</pubDate>
-    <lastBuildDate>12 Apr 2024, 15:01:39</lastBuildDate>
+    <pubDate>14 Oct 2024, 21:50:29</pubDate>
+    <lastBuildDate>14 Oct 2024, 21:50:29</lastBuildDate>
 
+      <item>
+        <title>World Metrology Day 2024</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2024/wmd24.html</link>
+        <pubDate>20 May 2024, 00:00:00</pubDate>
+        <guid isPermaLink="false">2024/wmd24.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/wmd_2024.png&quot; alt=&quot;World Metrology Day 2024 is Measurement for Health&quot; title=&quot;World Metrology Day 2024&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
+&lt;p&gt;The theme for World Metrology Day 2024 is Sustainability.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>10 Years JSR 363</title>
         <author>keilw</author>
