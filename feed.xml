@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>22 May 2025, 20:55:13</pubDate>
-    <lastBuildDate>22 May 2025, 20:55:13</lastBuildDate>
+    <pubDate>22 May 2025, 21:00:58</pubDate>
+    <lastBuildDate>22 May 2025, 21:00:58</lastBuildDate>
 
       <item>
         <title>World Metrology Day 2025</title>
@@ -20,6 +20,7 @@
 &lt;p&gt;May 20 is &lt;a href=&quot;http://www.worldmetrologyday.org&quot;&gt;World Metrology Day&lt;/a&gt;, commemorating the anniversary of the signing of the Metre Convention in 1875.&lt;/p&gt;
 &lt;p&gt;This year, we celebrate the 150th anniversary of the signing of the Metre Convention - a milestone that underscores a century and a half of international collaboration in measurement science. Also the &lt;a href=&quot;https://www.oiml.org/en&quot;&gt;OIML&lt;/a&gt;, the International Organization of Legal Metrology, turns 70 on October 12th this year.&lt;/p&gt;
 &lt;p&gt;The theme for World Metrology Day 2025 is Measurements for all times, for all people.&lt;/p&gt;
+&lt;p&gt;We also released &lt;a href=&quot;https://github.com/unitsofmeasurement/si-units/releases/tag/2.2.2&quot;&gt;version 2.2.2&lt;/a&gt; of &lt;a href=&quot;http://uom.si/&quot;&gt;SI Units&lt;/a&gt;.&lt;/p&gt;
 
         </description>
       </item>
