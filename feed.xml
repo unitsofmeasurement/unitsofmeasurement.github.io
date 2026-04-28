@@ -6,8 +6,8 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>28 Apr 2026, 16:49:37</pubDate>
-    <lastBuildDate>28 Apr 2026, 16:49:37</lastBuildDate>
+    <pubDate>28 Apr 2026, 16:51:03</pubDate>
+    <lastBuildDate>28 Apr 2026, 16:51:03</lastBuildDate>
 
       <item>
         <title>Eclipse UOMo Graduation</title>
@@ -18,7 +18,7 @@
         <description>
           &lt;p&gt;&lt;img src=&quot;/img/uomo.png&quot; alt=&quot;alt text&quot; title=&quot;Eclipse UOMo&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Today &lt;a href=&quot;https://www.eclipse.dev/uomo/&quot;&gt;Eclipse UOMo&lt;/a&gt; successfully finished its Graduation Review from the Incubator.&lt;/p&gt;
-&lt;p&gt;Thanks everyone who was involved and contributed to either UOMo or the underlying Units of Measurement libraries.&lt;/p&gt;
+&lt;p&gt;Thanks everyone who was involved and contributed to either UOMo or the underlying Units of Measurement modules.&lt;/p&gt;
 
         </description>
       </item>
