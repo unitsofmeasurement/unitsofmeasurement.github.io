@@ -6,9 +6,22 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>7 Jul 2025, 22:09:03</pubDate>
-    <lastBuildDate>7 Jul 2025, 22:09:03</lastBuildDate>
+    <pubDate>28 Apr 2026, 16:45:21</pubDate>
+    <lastBuildDate>28 Apr 2026, 16:45:21</lastBuildDate>
 
+      <item>
+        <title>Eclipse UOMo Graduation</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2026/uomo_grad.html</link>
+        <pubDate>19 Feb 2026, 00:00:00</pubDate>
+        <guid isPermaLink="false">2026/uomo_grad.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/uomo.png&quot; alt=&quot;alt text&quot; title=&quot;Eclipse UOMo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today Eclipse UOMo successfully finished its Graduation Review from the Incubator.&lt;/p&gt;
+&lt;p&gt;Thanks everyone who was involved and contributed to either UOMo or the underlying Units of Measurement libraries.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>World Metrology Day 2025</title>
         <author>keilw</author>
