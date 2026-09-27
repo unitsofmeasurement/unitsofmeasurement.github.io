@@ -6,9 +6,23 @@
     <atom:link href="http://https://unitsofmeasurement.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>For future use?</description>
     <language>en</language>
-    <pubDate>28 Apr 2026, 16:51:03</pubDate>
-    <lastBuildDate>28 Apr 2026, 16:51:03</lastBuildDate>
+    <pubDate>27 Sep 2026, 21:59:06</pubDate>
+    <lastBuildDate>27 Sep 2026, 21:59:06</lastBuildDate>
 
+      <item>
+        <title>Annus Mirabilis 4: E=mc²</title>
+        <author>keilw</author>
+        <link>http://https://unitsofmeasurement.github.io2026/annus_mirabilis26.html</link>
+        <pubDate>27 Sep 2026, 00:00:00</pubDate>
+        <guid isPermaLink="false">2026/annus_mirabilis26.html</guid>
+        <description>
+          &lt;p&gt;&lt;img src=&quot;/img/einstein_emc_s.png&quot; alt=&quot;alt text&quot; title=&quot;Einstein E=mc²&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;121 years ago, on September 27th, 1905, the fourth and final &lt;a href=&quot;https://annus-mirabilis.com/&quot;&gt;Annus Mirabilis&lt;/a&gt; paper by &lt;a href=&quot;https://en.wikipedia.org/wiki/Albert_Einstein&quot;&gt;Albert Einstein&lt;/a&gt; was published. In it Einstein presented a groundbreaking idea to the scientific world: energy (E) and mass (m) are interchangeable. They are both different manifestations of the same thing and can convert into each other.&lt;/p&gt;
+&lt;p&gt;This concept was quite revolutionary at that time.&lt;/p&gt;
+&lt;p&gt;Described in the world’s most famous equation: (E=mc²), it changed the way we view the Universe.&lt;/p&gt;
+
+        </description>
+      </item>
       <item>
         <title>Eclipse UOMo Graduation</title>
         <author>keilw</author>
